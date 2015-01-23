@@ -1,2 +1,12 @@
-# chart-sheet-properties
-Metadata (e.g. bounding boxes) of chart sheet series like the popular INT charts.
+# Chart Sheet Properties
+
+This repository holds meta-information required to generate charts (e.g. adopted from the [IHO's INT Charts](http://www.iho.int/srv1/index.php?option=com_content&view=article&id=312&lang=en)) from the various OpenSeaMap data sources.
+
+Upon the first discussion, this would be something like:
+
+* INT number
+* INT name
+* min + max / lat + lon
+* published scale
+* National number (prefixed by country code?)
+* National name
