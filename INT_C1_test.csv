@@ -1,12 +1,12 @@
-INT No.;Prod.;National No.;TITLE;South;North;West;East;Date 1st Ed/NE;Scale 1:;Scale Lat;Format;Printer (Nat. No. – Date NE)
-;;;;;;;;;;;;
-SMALL SCALE INT CHARTS;;;;;;;;;;;;
+INT No.,Prod.,National No.,TITLE,South,North,West,East,Date 1st Ed/NE,Scale 1:,Scale Lat,Format,Printer (Nat. No. – Date NE)
+,,,,,,,,,,,,
+SMALL SCALE INT CHARTS,,,,,,,,,,,,
 200,AR,200,Rincón de Cabo Corrientes a Faro Segunda Barranca,-57,-34,-70,-48.5833333333,77/13,3500000,-22.5,,GB (4200 – 10)
 201,BR,19300,Costa Sueste da América do Sul,-38.3333333333,-19,-59,-26,73/02,3500000,-22.5,,GB (4201 – 11)
 202,BR,19200,Costa Leste da América do Sul (East Coast of South America),-24,-3,-47,-14,75/04,3500000,-22.5,,GB (4202 – 11)
 215,BR,19400,Recife to Dakar,-15,18,-37,-14,76/,3500000,-22.5,,GB (4215 – 11)
-;;;;;;;;;;;;
-COAST OF BRAZIL;;;;;;;;;;;;
+,,,,,,,,,,,,
+COAST OF BRAZIL,,,,,,,,,,,,
 2003,BR,21020,De Salinópolis a Fortaleza,-3.8333333333,-2.9166666667,-47.6666666667,-38.0833333333,99/,1000000,-12,,
 2004,BR,21030,De Fortaleza a Natal,-6.5,-0.1666666667,-39.3333333333,-29.5,12/,1000000,-12,,
 2005,BR,21040,De Natal ao Rio Itariri,-12.3333333333,-5.5833333333,-38,-28,12/,1000000,-12,,
@@ -30,8 +30,8 @@ COAST OF BRAZIL;;;;;;;;;;;;
 2123,BR,23000,Do Cabo de São Tomé ao Rio de Janeiro,-24,-21.9166666667,-43.35,-40,03/08,300000,-28.6666666667,,
 2124,BR,23100,Do Rio de Janeiro a Santos,-24.7833333333,-22.6666666667,-46.3666666667,-43,99/10,300000,-28.6666666667,,
 2125,BR,23200,De Santos a Paranaguá,-25.6333333333,-23.75,-48.6333333333,-45.6333333333,10/,300000,-28.6666666667,,
-;;;;;;;;;;;;
-"SOUTH-WEST ATLANTIC, CENTRAL PART";;;;;;;;;;;;
+,,,,,,,,,,,,
+"SOUTH-WEST ATLANTIC, CENTRAL PART",,,,,,,,,,,,
 2008,BR,21070,Do Cabo Frio ao Cabo de Santa Marta Grande,-28.6666666667,-21.8333333333,-49.1666666667,-38.25,98/,1000000,-36,A0,
 2009,BR,21080,Do Cabo de Santa Marta Grande ao Arroio Chui,-34.1666666667,-28,-53.8333333333,-43,11/,1000000,-36,A0,
 2010,UY/AR,1/H-1,De Arroyo del Chui a Mar del Plata,-40,-33.3333333333,-59,-46.8333333333,(11)/,1000000,-36,A0,
@@ -47,8 +47,7 @@ COAST OF BRAZIL;;;;;;;;;;;;
 2134,AR,H-211,El Rincón,-40.7,-38.6666666667,-62.6666666667,-58.8333333333,(12)/,300000,-40,A0,
 2135,AR,H-214,De Faro Segunda Barranca a Faro Punta Bajos,-42.4666666667,-40.5,-65.1666666667,-61.3333333333,,300000,-40,A0,
 2136,AR,H-215,De Faro Punta Norte a Faro San José,-44.6,-41.8333333333,-65.4166666667,-62.7833333333,(12)/,300000,-40,A0,
-;;;;;;;;;;;;
-"SOUTH-WEST ATLANTIC, SOUTHERN PART";;;;;;;;;;;;
+,,,,,,,,,,,,
+"SOUTH-WEST ATLANTIC, SOUTHERN PART",,,,,,,,,,,,
 2012,AR,H-3,De Faro San Gregorio a Punta Cascajo,-50.75,-44.0833333333,-69.5,-55,,1000000,-54,A0,
 2136,AR,H-310,Golfo San Jorge,-47.3333333333,-44.1666666667,-67.6666666667,-64.5,,300000,-54,A0,
-;;;;;;;;;;;;
