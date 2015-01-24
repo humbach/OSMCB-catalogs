@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bundle version="1" name="Netherlands" outputFormat="BCOpenCPN">
+    <Layer name="L08">
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="8" lrc="N55°46'35,7&quot; E15°28'27,3&quot;" maxTileCoordinate="35585/23297" minTileCoordinate="32768/20480" name="L08 000-000" ulc="N46°04'09,9&quot; E0°00'00,0&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="8" lrc="N55°46'35,7&quot; E15°28'27,3&quot;" maxTileCoordinate="35585/23297" minTileCoordinate="32768/20480" name="L08 001-000" ulc="N46°04'09,9&quot; E0°00'00,0&quot;"/>
+        <zoomLvl>8</zoomLvl>
+    </Layer>
+    <Layer name="L10">
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="10" lrc="N54°09'44,8&quot; E8°05'14,3&quot;" maxTileCoordinate="136961/86785" minTileCoordinate="133120/83968" name="L10 000-000" ulc="N51°50'05,7&quot; E2°48'45,0&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="10" lrc="N54°09'44,8&quot; E8°05'14,3&quot;" maxTileCoordinate="136961/87809" minTileCoordinate="134144/83968" name="L10 001-000" ulc="N50°57'27,2&quot; E4°13'07,5&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="10" lrc="N53°19'51,1&quot; E8°05'14,3&quot;" maxTileCoordinate="136961/87809" minTileCoordinate="133120/84992" name="L10 002-000" ulc="N50°57'27,2&quot; E2°48'45,0&quot;"/>
+        <zoomLvl>10</zoomLvl>
+    </Layer>
+    <Layer name="L12">
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="12" lrc="N53°07'13,5&quot; E6°14'26,1&quot;" maxTileCoordinate="542465/342785" minTileCoordinate="537600/340992" name="L12 000-000" ulc="N52°44'57,8&quot; E4°34'13,1&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="12" lrc="N53°19'51,1&quot; E5°53'20,5&quot;" maxTileCoordinate="541441/341761" minTileCoordinate="537600/339968" name="L12 001-000" ulc="N52°57'42,0&quot; E4°34'13,1&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="12" lrc="N53°19'51,1&quot; E5°53'20,5&quot;" maxTileCoordinate="541441/343809" minTileCoordinate="538624/339968" name="L12 002-000" ulc="N52°32'09,8&quot; E4°55'18,8&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="12" lrc="N53°07'13,5&quot; E6°14'26,1&quot;" maxTileCoordinate="542465/343809" minTileCoordinate="538624/340992" name="L12 003-000" ulc="N52°32'09,8&quot; E4°55'18,8&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="12" lrc="N52°54'32,0&quot; E6°35'31,7&quot;" maxTileCoordinate="543489/344833" minTileCoordinate="538624/342016" name="L12 004-000" ulc="N52°19'18,1&quot; E4°55'18,8&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="12" lrc="N52°41'46,9&quot; E6°14'26,1&quot;" maxTileCoordinate="542465/345857" minTileCoordinate="537600/343040" name="L12 006-000" ulc="N52°06'22,7&quot; E4°34'13,1&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="12" lrc="N52°28'58,0&quot; E5°53'20,5&quot;" maxTileCoordinate="541441/345857" minTileCoordinate="537600/344064" name="L12 006-001" ulc="N52°06'22,7&quot; E4°34'13,1&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="12" lrc="N52°28'58,0&quot; E5°53'20,5&quot;" maxTileCoordinate="541441/346881" minTileCoordinate="538624/344064" name="L12 007-000" ulc="N51°53'23,4&quot; E4°55'18,8&quot;"/>
+        <zoomLvl>12</zoomLvl>
+    </Layer>
+    <Layer name="L14">
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="14" lrc="N53°04'03,5&quot; E4°53'60,0&quot;" maxTileCoordinate="2154241/1367809" minTileCoordinate="2151424/1364992" name="L14 000-000" ulc="N52°55'19,6&quot; E4°39'29,5&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="14" lrc="N53°00'53,2&quot; E5°09'49,2&quot;" maxTileCoordinate="2157313/1368833" minTileCoordinate="2154496/1366016" name="L14 001-000" ulc="N52°52'08,7&quot; E4°55'18,8&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="14" lrc="N53°13'32,8&quot; E4°59'16,4&quot;" maxTileCoordinate="2155265/1363713" minTileCoordinate="2152448/1361920" name="L14 002-000" ulc="N53°08'00,7&quot; E4°44'45,9&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="14" lrc="N53°13'32,8&quot; E5°30'54,8&quot;" maxTileCoordinate="2161409/1363713" minTileCoordinate="2158592/1361920" name="L14 003-000" ulc="N53°08'00,7&quot; E5°16'24,4&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="14" lrc="N53°07'13,5&quot; E5°25'38,4&quot;" maxTileCoordinate="2160385/1365761" minTileCoordinate="2157568/1363968" name="L14 004-000" ulc="N53°01'40,6&quot; E5°11'08,0&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="14" lrc="N53°00'53,2&quot; E5°30'54,8&quot;" maxTileCoordinate="2161409/1369857" minTileCoordinate="2158592/1366016" name="L14 005-000" ulc="N52°48'57,6&quot; E5°16'24,4&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="14" lrc="N53°00'53,2&quot; E5°52'00,4&quot;" maxTileCoordinate="2165505/1367809" minTileCoordinate="2161664/1366016" name="L14 006-000" ulc="N52°55'19,6&quot; E5°32'13,6&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="14" lrc="N53°00'53,2&quot; E5°46'44,0&quot;" maxTileCoordinate="2164481/1370881" minTileCoordinate="2162688/1366016" name="L14 007-000" ulc="N52°45'46,2&quot; E5°37'30,0&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="14" lrc="N53°04'03,5&quot; E5°36'11,2&quot;" maxTileCoordinate="2162433/1369857" minTileCoordinate="2159616/1364992" name="L14 008-000" ulc="N52°48'57,6&quot; E5°21'40,8&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="14" lrc="N53°00'53,2&quot; E5°41'27,6&quot;" maxTileCoordinate="2163457/1368833" minTileCoordinate="2160640/1366016" name="L14 009-000" ulc="N52°52'08,7&quot; E5°26'57,2&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="14" lrc="N52°57'42,8&quot; E5°20'22,0&quot;" maxTileCoordinate="2159361/1369857" minTileCoordinate="2156544/1367040" name="L14 010-000" ulc="N52°48'57,6&quot; E5°05'51,6&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="14" lrc="N52°48'09,9&quot; E5°20'22,0&quot;" maxTileCoordinate="2159361/1373953" minTileCoordinate="2157568/1370112" name="L14 011-000" ulc="N52°36'10,8&quot; E5°11'08,0&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="14" lrc="N52°51'21,1&quot; E5°15'05,6&quot;" maxTileCoordinate="2158337/1371905" minTileCoordinate="2155520/1369088" name="L14 012-000" ulc="N52°42'34,6&quot; E5°00'35,2&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="14" lrc="N52°44'58,5&quot; E5°25'38,4&quot;" maxTileCoordinate="2160385/1372929" minTileCoordinate="2157568/1371136" name="L14 013-000" ulc="N52°39'22,8&quot; E5°11'08,0&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="14" lrc="N52°41'46,9&quot; E6°07'49,6&quot;" maxTileCoordinate="2168577/1374977" minTileCoordinate="2161664/1372160" name="L14 015-000" ulc="N52°32'58,5&quot; E5°32'13,6&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="14" lrc="N52°38'35,0&quot; E5°57'16,8&quot;" maxTileCoordinate="2166529/1378049" minTileCoordinate="2163712/1373184" name="L14 015-001" ulc="N52°23'20,3&quot; E5°42'46,4&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="14" lrc="N52°25'45,2&quot; E5°41'27,6&quot;" maxTileCoordinate="2163457/1380097" minTileCoordinate="2160640/1377280" name="L14 016-000" ulc="N52°16'53,6&quot; E5°26'57,2&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="14" lrc="N52°25'45,2&quot; E5°46'44,0&quot;" maxTileCoordinate="2164481/1379073" minTileCoordinate="2161664/1377280" name="L14 017-000" ulc="N52°20'07,0&quot; E5°32'13,6&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="14" lrc="N52°28'58,0&quot; E5°52'00,4&quot;" maxTileCoordinate="2165505/1379073" minTileCoordinate="2162688/1376256" name="L14 018-000" ulc="N52°20'07,0&quot; E5°37'30,0&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="14" lrc="N52°32'10,6&quot; E5°57'16,8&quot;" maxTileCoordinate="2166529/1378049" minTileCoordinate="2163712/1375232" name="L14 019-000" ulc="N52°23'20,3&quot; E5°42'46,4&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="14" lrc="N52°22'32,2&quot; E5°20'22,0&quot;" maxTileCoordinate="2159361/1380097" minTileCoordinate="2155520/1378304" name="L14 020-000" ulc="N52°16'53,6&quot; E5°00'35,2&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="14" lrc="N52°25'45,2&quot; E5°04'32,8&quot;" maxTileCoordinate="2156289/1380097" minTileCoordinate="2154496/1377280" name="L14 021-000" ulc="N52°16'53,6&quot; E4°55'18,8&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="14" lrc="N52°25'45,2&quot; E5°04'32,8&quot;" maxTileCoordinate="2156289/1379073" minTileCoordinate="2153472/1377280" name="L14 022-000" ulc="N52°20'07,0&quot; E4°50'02,3&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="14" lrc="N52°22'32,2&quot; E5°25'38,4&quot;" maxTileCoordinate="2160385/1381121" minTileCoordinate="2157568/1378304" name="L14 023-000" ulc="N52°13'39,9&quot; E5°11'08,0&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="14" lrc="N52°19'18,9&quot; E5°36'11,2&quot;" maxTileCoordinate="2162433/1382145" minTileCoordinate="2158592/1379328" name="L14 024-000" ulc="N52°10'26,0&quot; E5°16'24,4&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="14" lrc="N52°25'45,2&quot; E5°41'27,6&quot;" maxTileCoordinate="2163457/1381121" minTileCoordinate="2160640/1377280" name="L14 025-000" ulc="N52°13'39,9&quot; E5°26'57,2&quot;"/>
+        <zoomLvl>14</zoomLvl>
+    </Layer>
+    <Layer name="L16">
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="16" lrc="N53°00'53,2&quot; E4°48'23,5&quot;" maxTileCoordinate="8612609/5468929" minTileCoordinate="8609792/5464064" name="L16 000-000" ulc="N52°57'07,0&quot; E4°44'45,9&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="16" lrc="N52°57'42,8&quot; E5°04'12,8&quot;" maxTileCoordinate="8624897/5472001" minTileCoordinate="8622080/5468160" name="L16 001-000" ulc="N52°54'43,9&quot; E5°00'35,2&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="16" lrc="N53°11'58,0&quot; E4°53'40,0&quot;" maxTileCoordinate="8616705/5452545" minTileCoordinate="8612864/5449728" name="L16 002-000" ulc="N53°09'47,6&quot; E4°48'43,2&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="16" lrc="N53°11'58,0&quot; E5°25'18,4&quot;" maxTileCoordinate="8641281/5452545" minTileCoordinate="8638464/5449728" name="L16 003-000" ulc="N53°09'47,6&quot; E5°21'40,8&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="16" lrc="N53°06'26,0&quot; E5°22'40,2&quot;" maxTileCoordinate="8639233/5460737" minTileCoordinate="8635392/5456896" name="L16 004-000" ulc="N53°03'27,8&quot; E5°17'43,5&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="16" lrc="N52°58'30,4&quot; E5°25'18,4&quot;" maxTileCoordinate="8641281/5469953" minTileCoordinate="8638464/5467136" name="L16 005-000" ulc="N52°56'19,3&quot; E5°21'40,8&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="16" lrc="N52°53'44,3&quot; E5°23'59,3&quot;" maxTileCoordinate="8640257/5476097" minTileCoordinate="8636416/5473280" name="L16 006-000" ulc="N52°51'33,0&quot; E5°19'02,6&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="16" lrc="N52°58'30,4&quot; E5°38'29,4&quot;" maxTileCoordinate="8651521/5468929" minTileCoordinate="8648704/5467136" name="L16 007-000" ulc="N52°57'07,0&quot; E5°34'51,8&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="16" lrc="N52°52'56,6&quot; E5°43'45,8&quot;" maxTileCoordinate="8655617/5479169" minTileCoordinate="8651776/5474304" name="L16 008-000" ulc="N52°49'09,7&quot; E5°38'49,1&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="16" lrc="N52°58'30,4&quot; E5°42'26,7&quot;" maxTileCoordinate="8654593/5470977" minTileCoordinate="8652800/5467136" name="L16 009-000" ulc="N52°55'31,6&quot; E5°40'08,2&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="16" lrc="N52°59'18,0&quot; E5°45'04,9&quot;" maxTileCoordinate="8656641/5468929" minTileCoordinate="8653824/5466112" name="L16 010-000" ulc="N52°57'07,0&quot; E5°41'27,3&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="16" lrc="N53°00'05,6&quot; E5°31'53,9&quot;" maxTileCoordinate="8646401/5467905" minTileCoordinate="8643584/5465088" name="L16 011-000" ulc="N52°57'54,6&quot; E5°28'16,3&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="16" lrc="N52°57'42,8&quot; E5°35'51,2&quot;" maxTileCoordinate="8649473/5470977" minTileCoordinate="8646656/5468160" name="L16 012-000" ulc="N52°55'31,6&quot; E5°32'13,6&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="16" lrc="N52°56'55,1&quot; E5°33'13,0&quot;" maxTileCoordinate="8647425/5472001" minTileCoordinate="8644608/5469184" name="L16 013-000" ulc="N52°54'43,9&quot; E5°29'35,4&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="16" lrc="N52°56'07,4&quot; E5°30'34,8&quot;" maxTileCoordinate="8645377/5474049" minTileCoordinate="8642560/5470208" name="L16 014-000" ulc="N52°53'08,5&quot; E5°26'57,2&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="16" lrc="N52°54'32,0&quot; E5°27'56,6&quot;" maxTileCoordinate="8643329/5475073" minTileCoordinate="8640512/5472256" name="L16 015-000" ulc="N52°52'20,8&quot; E5°24'19,0&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="16" lrc="N52°55'19,7&quot; E5°13'26,5&quot;" maxTileCoordinate="8632065/5474049" minTileCoordinate="8629248/5471232" name="L16 016-000" ulc="N52°53'08,5&quot; E5°09'48,9&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="16" lrc="N52°45'46,4&quot; E5°17'23,8&quot;" maxTileCoordinate="8635137/5486337" minTileCoordinate="8632320/5483520" name="L16 017-000" ulc="N52°43'34,7&quot; E5°13'46,2&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="16" lrc="N52°47'22,1&quot; E5°08'10,1&quot;" maxTileCoordinate="8627969/5484289" minTileCoordinate="8625152/5481472" name="L16 018-000" ulc="N52°45'10,5&quot; E5°04'32,5&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="16" lrc="N52°43'22,7&quot; E5°20'02,0&quot;" maxTileCoordinate="8637185/5489409" minTileCoordinate="8634368/5486592" name="L16 019-000" ulc="N52°41'10,9&quot; E5°16'24,4&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="16" lrc="N52°41'46,9&quot; E5°17'23,8&quot;" maxTileCoordinate="8635137/5491457" minTileCoordinate="8632320/5488640" name="L16 020-000" ulc="N52°39'35,0&quot; E5°13'46,2&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="16" lrc="N52°40'59,0&quot; E5°37'10,3&quot;" maxTileCoordinate="8650497/5492481" minTileCoordinate="8647680/5489664" name="L16 021-000" ulc="N52°38'47,0&quot; E5°33'32,7&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="16" lrc="N52°37'47,0&quot; E5°39'48,5&quot;" maxTileCoordinate="8652545/5496577" minTileCoordinate="8649728/5493760" name="L16 022-000" ulc="N52°35'34,9&quot; E5°36'10,9&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="16" lrc="N52°37'47,0&quot; E5°51'40,4&quot;" maxTileCoordinate="8661761/5498625" minTileCoordinate="8658944/5493760" name="L16 023-000" ulc="N52°33'58,8&quot; E5°48'02,8&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="16" lrc="N52°36'11,0&quot; E5°51'40,4&quot;" maxTileCoordinate="8661761/5498625" minTileCoordinate="8656896/5495808" name="L16 024-000" ulc="N52°33'58,8&quot; E5°45'24,6&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="16" lrc="N52°39'23,0&quot; E6°02'13,2&quot;" maxTileCoordinate="8669953/5494529" minTileCoordinate="8665088/5491712" name="L16 025-000" ulc="N52°37'11,0&quot; E5°55'57,4&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="16" lrc="N52°38'35,0&quot; E5°56'56,8&quot;" maxTileCoordinate="8665857/5495553" minTileCoordinate="8660992/5492736" name="L16 026-000" ulc="N52°36'22,9&quot; E5°50'41,0&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="16" lrc="N52°23'20,4&quot; E5°38'29,4&quot;" maxTileCoordinate="8651521/5515009" minTileCoordinate="8648704/5512192" name="L16 027-000" ulc="N52°21'07,6&quot; E5°34'51,8&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="16" lrc="N52°24'08,7&quot; E5°41'07,6&quot;" maxTileCoordinate="8653569/5513985" minTileCoordinate="8650752/5511168" name="L16 028-000" ulc="N52°21'55,9&quot; E5°37'30,0&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="16" lrc="N52°24'57,0&quot; E5°43'45,8&quot;" maxTileCoordinate="8655617/5512961" minTileCoordinate="8652800/5510144" name="L16 029-000" ulc="N52°22'44,2&quot; E5°40'08,2&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="16" lrc="N52°25'45,2&quot; E5°46'24,0&quot;" maxTileCoordinate="8657665/5511937" minTileCoordinate="8654848/5509120" name="L16 030-000" ulc="N52°23'32,5&quot; E5°42'46,4&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="16" lrc="N52°26'33,4&quot; E5°49'02,2&quot;" maxTileCoordinate="8659713/5510913" minTileCoordinate="8656896/5508096" name="L16 031-000" ulc="N52°24'20,7&quot; E5°45'24,6&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="16" lrc="N52°28'09,8&quot; E5°50'21,3&quot;" maxTileCoordinate="8660737/5508865" minTileCoordinate="8657920/5506048" name="L16 032-000" ulc="N52°25'57,2&quot; E5°46'43,7&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="16" lrc="N52°29'46,2&quot; E5°51'40,4&quot;" maxTileCoordinate="8661761/5506817" minTileCoordinate="8658944/5504000" name="L16 033-000" ulc="N52°27'33,6&quot; E5°48'02,8&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="16" lrc="N52°34'34,9&quot; E5°52'59,5&quot;" maxTileCoordinate="8662785/5504769" minTileCoordinate="8659968/5497856" name="L16 034-000" ulc="N52°29'10,0&quot; E5°49'21,9&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="16" lrc="N52°20'55,5&quot; E5°10'48,3&quot;" maxTileCoordinate="8630017/5518081" minTileCoordinate="8627200/5515264" name="L16 035-000" ulc="N52°18'42,6&quot; E5°07'10,7&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="16" lrc="N52°23'20,4&quot; E5°00'15,5&quot;" maxTileCoordinate="8621825/5515009" minTileCoordinate="8619008/5512192" name="L16 036-000" ulc="N52°21'07,6&quot; E4°56'37,9&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="16" lrc="N52°24'08,7&quot; E4°58'56,4&quot;" maxTileCoordinate="8620801/5513985" minTileCoordinate="8615936/5511168" name="L16 037-000" ulc="N52°21'55,9&quot; E4°52'40,5&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="16" lrc="N52°21'43,9&quot; E5°08'10,1&quot;" maxTileCoordinate="8627969/5517057" minTileCoordinate="8624128/5514240" name="L16 038-000" ulc="N52°19'30,9&quot; E5°03'13,4&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="16" lrc="N52°20'07,2&quot; E5°17'23,8&quot;" maxTileCoordinate="8635137/5518081" minTileCoordinate="8629248/5516288" name="L16 039-000" ulc="N52°18'42,6&quot; E5°09'48,9&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="16" lrc="N52°19'18,9&quot; E5°20'02,0&quot;" maxTileCoordinate="8637185/5520129" minTileCoordinate="8634368/5517312" name="L16 040-000" ulc="N52°17'05,8&quot; E5°16'24,4&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="16" lrc="N52°18'30,5&quot; E5°22'40,2&quot;" maxTileCoordinate="8639233/5522177" minTileCoordinate="8636416/5518336" name="L16 041-000" ulc="N52°15'29,0&quot; E5°19'02,6&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="16" lrc="N52°16'53,8&quot; E5°29'15,7&quot;" maxTileCoordinate="8644353/5523201" minTileCoordinate="8638464/5520384" name="L16 042-000" ulc="N52°14'40,6&quot; E5°21'40,8&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="16" lrc="N52°17'42,2&quot; E5°33'13,0&quot;" maxTileCoordinate="8647425/5522177" minTileCoordinate="8643584/5519360" name="L16 043-000" ulc="N52°15'29,0&quot; E5°28'16,3&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="16" lrc="N52°19'18,9&quot; E5°34'32,1&quot;" maxTileCoordinate="8648449/5520129" minTileCoordinate="8645632/5517312" name="L16 044-000" ulc="N52°17'05,8&quot; E5°30'54,5&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="16" lrc="N52°20'55,5&quot; E5°35'51,2&quot;" maxTileCoordinate="8649473/5518081" minTileCoordinate="8646656/5515264" name="L16 045-000" ulc="N52°18'42,6&quot; E5°32'13,6&quot;"/>
+        <Map mapSource="AH OpenSeaMap - Mapnik" zoom="16" lrc="N52°22'32,2&quot; E5°37'10,3&quot;" maxTileCoordinate="8650497/5516033" minTileCoordinate="8646656/5513216" name="L16 046-000" ulc="N52°20'19,3&quot; E5°32'13,6&quot;"/>
+        <zoomLvl>16</zoomLvl>
+    </Layer>
+</bundle>
