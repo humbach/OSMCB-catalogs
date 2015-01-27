@@ -1,459 +1,459 @@
-SMALL AND MEDIUM SCALE INT CHARTS;;;;;;;;;;
-101;NO;304;Norskehavet. Norge – Island (Norway to Iceland);59°25.00’N;68°42.00’N;17°00.00’W;16°20.00’E;76/08;3500000;22°30'N
-102;GB;4102;Western Approaches to the British Isles;48°15.00’N;60°38.00’N;34°15.00’W;00°55.00’W;72/11;3500000;22°30'N
-112;IS;10;Iceland to Greenland;59°25.00’N;68°42.00’N;45°20.00’W;12°00.00’W;72/11;3500000;22°30'N
-140;NO;301;Nordsjøen (Nordsee) (North Sea);48°10.00’N;62°50.00’N;04°20.00’W;12°36.00’E;72/09;1500000;60°00'N
-160;GB;2;British Isles;48°10.0’N;62°50.00’N;13°47.20’W;03°25.00’E;83/13;1500000;60°00'N
-1002;NO;302;Bergen – Andenes;60°20.00’N;69°25.00’N;01°00.00’E;16°20.00’E;;1000000;65°00’N
-1010;IS;21;Island;62°00.00’N;67°50.00’N;29°00.00’W;08°30.00’W;08/;1000000;65°00'N
-;;;;;;;;;;
-FROM COASTS OF THE CHANNEL AND OF THE NORTH SEA TO ICELAND;;;;;;;;;;
-1011;DK;80;Waters around the Faroe Islands;59°55.00’N;63°23.00’N;09°25.50’W;04°29.40’W;01/11;400000;62°00’N
-1040;GB;2182D;Norwegian Sea – Føroyar to Bergen;60°20.00’N;64°10.00’N;08°19.00’W;05°50.00’E;92/11;750000;58°30'N
-1041;GB;2182C;North Sea – Northern Sheet;57°05.00’N;61°14.32’N;03°50.00’W;08°46.32’W;92/13;750000;58°30'N
-1042;GB;2182B;North Sea – Central Sheet;53°33.50’N;58°06.90’N;03°21.00’W;09°15.10’E;73/11;750000;58°30'N
-1043;NL;1014;(Nordsee Südblatt) North Sea – Southern Sheet;50°50.00’N;55°40.00’N;02°10.00’W;10°10.00’E;73/13;750000;58°30'N
-1044;DK;93;Nordsøen Jyllands Vestkyst;54°59.96’N;57°11.96’N;02°59.92’E;09°09.92’E;83/10;375000;54°00’N
-1044PlanA;DK;93;Plan A - Hanstholm;57°07.00’N;57°07.67’N;08°35.28’E;08°36.27’E;83/10;12500;54°00’N
-1044PlanB;DK;93;Plan B - Hvide Sande;55°59.82’N;56°00.62’N;08°06.42’E;08°07.90’E;83/10;12500;56°00’N
-1045;DE;50;Nordsee Deutsche Bucht (Terschelling to Esbjerg);53°25.00’N;55°55.00’N;03°10.00’E;09°20.00’E;86/13;375000;54°00’N
-1046;NL;1035;Cap Gris Nez to Dogger Bight and Friesland Junction;50°50.00’N;54°15.00’N;01°10.00’E;04°53.00’E;88/08;375000;54°00'N
-1063;GB;2649;Western Approaches to the English Channel;48°20.00’N;51°33.52’N;13°27.65’W;04°52.00’W;88/03;500000;55°00'N
-1070;GB;2675;English Channel;48°00.00’N;51°14.80’N;06°43.70’W;01°52.00’E;91/03;500000;55°00'N
-1400;NO;306;Kristiansand-Utsira;57º05.00’N;59º20.00’N;02º20.00’E;08º10.00’E;12/;350000;58º12.5’N
-1401;NO;307;Stavanger-Florø;58º48.00’N;61º52.00’N;01º14.00’E;05º50.00’E;13/;350000;60º30’N
-1402;NO;308;Florø - Smøla;61°25.00’N;63°30.00’N;02°40.00’E;08°15.00’E;14/;350000;62°30’N
-1611;GB;1178;Approaches to the Bristol Channel;49°53.40’N;52°14.02’N;06°39.93’W;04°30.07’W;94/12;200000;58°00'N
-;;;;;;;;;;
-WESTERN ENGLISH CHANNEL;;;;;;;;;;
-1071;FR;7311;La Manche (Partie Ouest) – De Isle of Scilly et de l’Ile d’Ouessant aux Casquets;48°14.90’N;50°47.90’N;06°55.10’W;01°10.10’W;94/09;375000;50°00'N
-1700;GB;2565;English Channel Saint Agnes Head to Dodman Point including the Isles of Scilly;49°22.89’N;50°25.00’N;07°08.10’W;04°47.07’W;93/12;150000;51°00'N
-1701;GB;442;Lizard Point to Berry head;49°22.92’N;50°25.04’N;05°13.57’W;02°52.53’W;87/02;150000;51°00'N
-1702;GB;2454;Start Point to the Needles;49°42.81’N;50°44.50’N;03°53.00’W;01°32.00’W;88/08;150000;51°00'N
-1706;FR;6966;Des Héaux-de-Bréhat au Cap Levi;48º30.00’N;50º02.20’N;03º05.30’W;01º29.30’W;84/01;155000;49°15'N
-1707;FR;6930;Des Roches de Portsall au Plateau des Roches Douvres;48°29.90’N;49°33.10’N;04°50.10’W;02°29.10’W;85/09;150000;49°02'N
-1708;FR;6680;De l’Ile d’Ouessant à l’Ile de Batz;48°21.53’N;49°24.95’N;06°18.09’W;03°57.08’W;80/03;150000;48°53'N
-1719;GB;154;Approaches to Falmouth;49°54.53’N;50°13.04’N;05°12.66’W;04°54.25’W;85/13;35000;**
-1719PlanA;GB;154;Plan A – Nare head to Dodman Point;50°10.73’N;50°14.84’N;04°55.07’W;04°48.06’W;85/13;35000;**
-1720;GB;32;England – South Coast, Falmouth to Truro;50°07.53’N;50°14.15’N;05°06.17’W;04°59.55’W;84/13;12500;**
-1720PlanA;GB;32;Plan A – Continuation of Truro River;50°13.98’N;50°15.85’N;05°03.57’W;05°00.36’W;84/13;12500;**
-1720PlanB;GB;32;Plan B – Continuation to Tresillian River;50°15.64’N;50°16.84’N;05°00.97’W;04°59.28’W;84/13;20000;**
-1720PlanC;GB;32;Plan C – Continuation of River Fal (Ruan Creek);50°13.21’N;50°14.60’N;04°59.98’W;04°57.06’W;84/13;20000;**
-1721;GB;31;Harbours on the South Coast of Cornwall;;;;;85/14;;
-1721PlanA;GB;31;Plan A – Charlestown Harbour;50°19.43’N;50°20.09’N;04°45.71’W;04°44.55’W;85/14;5000;**
-1721PlanB;GB;31;Plan B – Par Harbour;50°19.53’N;50°21.06’N;04°43.37’W;04°40.54’W;85/14;7500;**
-1721PlanC;GB;31;Plan C – Fowey Harbour;50°18.90’N;50°21.03’N;04°39.44’W;04°36.69’W;85/14;15000;**
-1721PlanD;GB;31;Plan D – River Fowey;50°20.64’N;50°23.11’N;04°39.52’W;04°36.97’W;85/14;15000;**
-1721PlanE;GB;31;Plan E – Continuation of the River Fowey;50°22.88’N;50°24.54’N;04°40.17’W;04°39.08’W;85/14;15000;**
-1722;GB;30;Plymouth Sound and Approaches;50°17.84’N;50°22.23’N;04°13.67’W;04°02.08’W;86/10;12500;**
-1722Cont;GB;30;Continuation of Hamoaze;50°22.03’N;50°24.74’N;04°12.77’W;04°10.76’W;86/10;12500;**
-1723;GB;2253;England – South Coast, Darmouth Harbour;50°19.17’N;50°22.54’N;03°35.22’W;03°31.80’W;88/13;6250;**
-1723PlanA;GB;2253;Plans A – River Dart, Continuation to Blackness Point;50°22.43’N;50°23.71’N;03°36.67’W;03°34.47’W;88/13;6250;**
-1723PlanB;GB;2253;Plan B – River Dart, Blackness Point to Berry Rock;50°23.30’N;50°24.81’N;03°40.03’W;03°36.37’W;88/13;12500;**
-1723PlanC;GB;2253;Plan C – River Dart, Continuation to Totnes;50°24.43’N;50°25.94’N;03°41.08’W;03°39.42’W;88/13;12500;**
-1724;GB;26;Harbours on the South Coast of Devon;;;;;86/12;12500;**
-1724PlanA;GB;26;Plan A – Tor Bay;50°22.78’N;50°27.98’N;03°34.08’W;03°27.42’W;86/12;12500;**
-1724PlanB;GB;26;Plan B – Brixham Harbour;50º23.671’N;50º24.40’N;03º31.32’W;03º29.93’W;86/12;7500;**
-1724PlanC;GB;26;Plan C – Teignmouth Harbour;50°32.05’N;50°32.86’N;03°30.67’W;03°28.68’W;86/12;7500;**
-1724PlanD;GB;26;Plan D – Torquay Harbour;50°27.37’N;50°27.80’N;03°31.88’W;03°31.42’W;86/12;4000;**
-1725;GB;2255;Approaches to Portland and Weymouth;50°28.31’N;50°39.11’N;02°29.42’W;02°18.42’W;87/10;20000;**
-1726;GB;2611;Poole Harbour and Approaches;50°39.09’N;50°43.49’N;02°04.79’W;01°54.38’W;87/13;12500;**
-1726PlanA;GB;2611;Plan A – Continuation of Holes Bay;50°43.02’N;50°44.33’N;02°00.74’W;01°59.01’W;87/13;12500;**
-1726PlanB;GB;2611;Plan B – Continuation to Wareham;50°40.73’N;50°41.69’N;02°06.79’W;02°04.48’W;87/13;12500;**
-1754;FR;7130;Approches de Saint Malo;48°36.82’N;48°42.89’N;02°11.64’W;01°58.21’W;91/02;15000;48°39’N
-1755;FR;7127;Abords de l’île de Bréhat, Anse de Paimpol, Entrée du Trieux;48°42.78’N;48°54.64’N;03°05.68’W;02°53.48’W;91/07;20000;48°48’N
-1755PlanA;FR;7127;Plan A – Port de Lézardrieux – Le Trieux;48°46.74’N;48°48.39’N;03°06.58’W;03°04.95’W;91/07;10000;-
-1755PlanB;FR;7127;Plan B – Port de Paimpol;48°46.69’N;48°47.50’N;03°03.02’W;03°01.31’W;91/07;10000;-
-1756;FR;7095;Baie de Morlaix – De l’Ile de Batz à la Pointe de Primel;48°38.14’N;48°46.23’N;04°03.56’W;03°48.94’W;88/13;20000;48°42’N
-1756PlanA;FR;7095;Plan A – Ports de Roscoff;48°42.69’N;48°44.24’N;03°59.21’W;03°56.66 ‘W;88/13;10000;-
-1756PlanB;FR;7095;Plan B – Rivière de Morlaix;48°34.64’N;48°38.94’N;03°52.20’W;03°49.89’W;88/13;15000;-
-1757;FR;7094;Du Phare Du Four à l’Ile Vierge – Port de l’Aber-Wrac’h;48°30.69’N;48°40.78’N;04°51.91’W;04°29.59’W;88/07;25000;48°35’N
-1757PlanA;FR;7094;Plan A – Aber-Wrac’h;48°35.05’N;48°36.34’N;04°34.29’W;04°30.63’W;88/07;15000;-
-;;;;;;;;;;
-EASTERN ENGLISH CHANNEL;;;;;;;;;;
-1072;FR;7312;La Manche (Partie Est) - Des Casquets au Pas de Calais;49°04.90’N;51°35.50’N;03°00.10’W;02°44.90’E;94/09;375000;50°00'
-1703;GB;2450;Anvil Point to Beachy Head;49°53.92’N;50°55.37’N;01°59.09’W;00°21.96’W;91/08;150000;51°00'N
-1704;FR;6824;La Manche - Du Cap D’Antifer au Cap Gris-Nez - De Newhaven à Dover;49°40.30’N;51°10.30’N;00°00.00’E;01°35.90’E;81/12;152000;50°25'N
-1705;FR;6857;Du Cap La Hague à Fécamp. Baie De Seine;49°10.70’N;50°12.90’N;01°57.50’W;00°23.50’E;96/12;150000;49°41'N
-1729;GB;2035;Western Approaches to the Solent;50°36.43’N;50°46.56’N;01°47.21’W;01°23.88’W;00/13;25000;**
-1730;GB;2036;The Solent and Southampton Water;50°42.91’N;50°53.04’N;01°27.37’W;01°03.99’W;00/13;25000;**
-1731;GB;2037;Eastern Approaches to the Solent;50°34.03’N;50°48.88’N;01°08.98’W;00°53.08’W;00/13;25000;**
-1732;GB;2631;Portsmouth Harbour;50°46.93’N;50°50.90’N;01°09.43’W;01°05.28’W;00/12;7500;**
-1732PlanA;GB;2631;Plan A – Continuation of Fareham Lake;50°50.16’N;50°51.01’N;01°10.78’W;01°09.07’W;00/12;7500;**
-1733;GB;2041;Port of Southampton;50°51.91’N;50°55.32’N;01°29.09’W;01°20.73’W;86/12;10000;**
-1734;GB;2044;Approaches to Shoreham;50º46.54’N;50º50.19’N;00º17.40’W;00º12.28’W;90/13;15000;**
-1734PlanA;GB;2044;Plan A - Shoreham Harbour - Western Arm and River Ador;50º49.34’N;50º50.17’N;00º17.23’W;00’14.64’W;90/13;5000;**
-1734PlanB;GB;2044;Plan B - Shoreham Harbour - Eastern Arm and The Canal;50º49.34’N;50º50.17’N;00º15.09’W;00º11.90’W;90/13;5000;**
-1735;GB;2154;Newhaven Harbour;50°46.29’N;50°47.99’N;00°02.58’E;00°04.55’E;98/13;5000;**
-1736;GB;1698;Dover;51°05.87’N;51°07.99’N;01°17.50’E;01°21.50’E;85/13;6250;**
-1740;GB;536;Beachy Head to Dungeness;50°32.63’N;50°58.78’N;00°02.26’E;01°05.06’E;88/11;75000;50°30'N
-1740PlanA;GB;536;Plan A – Sovereign Harbour;50°47.13’N;50°48.24’N;00°19.00’E;00°20.91’E;88/11;15000;DE
-1741;GB;1892;Dover Strait, Western Part;50°41.58’N;51°11.64’N;00°50.12’E;01°59.89’E;91/11;75000;50°30'N
-1742;FR;7416;Abords Sud de Boulogne-sur-Mer du Tréport à Boulogne-sur-Mer;50°01.40’N;50°46.00’N;00°57.30’E;01°44.30’E;98/06;75000;50°30'N
-1743;FR;7247;Port de Boulogne-sur-Mer;50°41.75’N;50°47.68’N;01°30.75’E;01°37.12’E;91/11;10000;50°45'N
-1744;FR;7207;Ports de Fécamp et du Tréport;;;;;91/06;12500;-
-1744PlanA;FR;7207;Plan A – Le Tréport;50°02.50’N;50°06.37’N;01°16.86’E;01°24.72’E;91/06;12500;-
-1744PlanB;FR;7207;Plan B – Fécamp;49°44.20’N;49°47.65’N;00°15.81’E;00°23.62’E;91/06;12500;-
-1745;FR;7317;Port De Dieppe;49°54.85’N;49°58.31’N;01°00.47’E;01°08.41’E;94/06;12500;49°56'N
-1750;FR;7418;Abords du Havre et d’Antifer – Embouchure de la Seine de Ouistreham au Cap d’Antifer;49°15.00’N;49°50.60’N;00°20.80’W;00°16.60’E;97/07;45000;49°34'N
-1751;FR;6683;Port du Havre – Entrée du Chenal de Rouen;49°25.14’N;49°31.21’N;00°00.74’W;00°12.92’E;77/06;15000;49°28'N
-1752;FR;7419;Côte Nord de France, La Seine – Du Havre à Rouen;;;;;89/07;Various;49°27'N
-1752Part1;FR;7419;Part 1;49°25.05’N;49°30.85’N;00°08.58’W;00°13.02’E;89/07;30000;-
-1752Part2;FR;7419;Part 2;49°24.80’N;49°29.95’N;00°10.00’E;00°30.00’E;89/07;60100;-
-1752Part3;FR;7419;Part 3;49°19.60’N;49°31.65’N;00°26.82’E;01°04.92’E;89/07;60100;-
-1752PlanA;FR;7419;Plan A – Port de Rouen;49°20.96’N;49°26.00’N;00°58.22’E;01°02.48’E;89/07;15000;-
-1752PlanB;FR;7419;Plan B – Port de Rouen (Cont.);49°24.95’N;49°27.05’N;01°00.66’E;01°04.92’E;89/07;15000;-
-1753;FR;7092;De la Pointe de Nacqueville au Cap Levi , Rade de Cherbourg;49°37.35’N;49°45.44’N;01°45.08’W;01°26.79’W;88/09;20000;49°41'N
-1759;FR;7420;Ports en Baie-de Seine;;;;;99/06;17500;49°15'N
-1759PlanA;FR;7420;Plan A – Port de Grandcamp - Maisy;49°23.19’N;49°24.42’N;01°04.04’W;01°01.66’W;99/06;10000;-
-1759PlanB;FR;7420;Plan B – Port de Port-en-Bessin;49°20.62’N;49°21.76’N;00°46.58’W;00°44.35’W;99/06;10000;-
-1759PlanC;FR;7420;Plan C – Port de Courseulles-sur-Mer;49°19.81’N;49°21.34’N;00°28.50’W;00°26.65’W;99/06;10000;-
-1759PlanD;FR;7420;Plan D – Rade de Caen – Port de Ouistreham;49°13.94’N;49°21.20’N;00°16.88’W;00°09.31’W;99/06;17500;-
-1759PlanE;FR;7420;Plan E – Port de Caen;49°10.65’N;49°14.64’N;00°21.58’W;00°16.28’W;99/06;17500;-
-1759PlanF;FR;7420;Plan F – Port de Dives-sur-Mer – Port Guillaume;49°17.48’N;49°18.90’N;00°06.48’W;00°05.03’W;99/06;10000;-
-1759PlanG;FR;7420;Plan G - Port de Deauville – Trouville;49°21.46’N;49°22.87’N;00°03.32’E;00°05.45’E;99/06;10000;-
-1759PlanH;FR;7420;Plan H – Port de Honfleur;49°24.95’N;49°26.15’N;00°12.80’E;00°15.18’E;99/06;10000;-
-;;;;;;;;;;
-SOUTHEASTERN NORTH SEA;;;;;;;;;;
-1411;DK;94;Horns Rev (approaches to Esbjerg);54°55.00’N;55°41.00’N;06°47.00’E;08°45.00’E;03/13;130000;56°00'N
-1412;DE;103;Helgoland bis Rømø;53°58.00’N;55°13.00’N;07°24.00’E;09°02.00’E;84/12;150000;54°00'N
-1413;DE;87;Borkum bis Neuwerk und Helgoland;53°18.65’N;54°19.95’N;06°09.92’E;08°39.72’E;84/13;150000;54°00'N
-1416;NL/GB;1630;West Hinder and Outer Gabbard to Vlissingen and Scheveningen;51°22.20’N;52°21.70’N;01°58.00’E;04°19.00’E;05/10;150000;51°00'N
-1417;NL/GB;1633;Friesland Junction and GW/EMS to Vlieland and Borkum;53°12.00’N;54°13.00’N;04°12.00’E;06°42.90’E;05/10;150000;54°00’N
-1418;NL/GB;1631;DW Routes to Ijmuiden and Texel;52°16.70’N;53°15.00’N;02°33.00’E;04°54.00’E;05/10;150000;51°00’N
-1420;NL/GB;1632;DW Routes and Friesland Junction to Vlieland;53°10.00’N;54°11.10’N;02°32.00’E;05°02.90’E;05/11;150000;54°00'N
-1451;DK;95;(Denmark – West Coast) Grådyb;55°23.97’N;55°30.96’N;08°10.69’E;08°29.11’E;87/11;20000;56°00'N
-1451PlanA;DK;95;Plan A - Esbjerg Nord;55°27.86’N;55°28.78’N;08°24.42’E;08°26.33’E;87/11;12500;-
-1451PlanB;DK;95;Plan B – Esbjerg Sud;55°26.99’N;55°27.90’N;08°25.72’E;08°28.13’E;87/11;12500;-
-1452;DE;44;Elbmündung (The Elbe Scharhörn Riff to Medemgrund);53°45.00’N;54°05.00’N;08°06.40’E;08°56.30’E;85/13;50000;54°00'N
-1452PlanA;DE;44;Plan A - Cuxhaven;53°50.65’N;53°53.60’N;08°41.20’E;08°45.80’E;85/13;12500;-
-1453;DE;46;Die Elbe von der Oste bis Brunsbuttel und Krautsand (The Elbe – Belum to Krautsand);53°44.50’N;53°56.00’N;08°55.80’E;09°25.70’E;84/13;30000;54°00'N
-1453PlanA;DE;46;Plan A - Die Oste von Geversdorf bis Osten;53°41.40’N;53°48.50’N;09°04.40’E;09°11.30’E;84/13;5000;53°45’N
-1453PlanB;DE;46;Plan B – Hafen und Schleusenanlagen von Brunsbüttel;53°52.50’N;53°55.20’N;09°04.70’E;09°12.40’E;84/13;15000;53°54’N
-1453PlanC;DE;46;Plan C - Hafen von Glückstadt;53°46.90’N;53°47.50’N;09°24.40’E;09°25.60’E;84/13;10000;53°47’N
-1453PlanD;DE;46;Plan D - Dornbusch;53°43.00’N;53°45.10’N;09°19.80’E;09°23.30’E;84/13;30000;54°00’N
-1453PlanE;DE;46;Plan E Part 1 –Die Stör von Wewelsfleth bis Itzehoe;53°50.05’N;53°54.95’N;09°23.90’E;09°27.40’E;84/13;30000;54°00’N
-1453PlanF;DE;46;Plan F – Part 2 - Die Stör von Hörn bis Itzehoe;53°54.75’N;53°56.15’N;09°25.20’E;09°31.70’E;84/13;30000;54°00’N
-1454;DE;47;Die Elbe von Krautsand bis Schulau;53°32.00’N;53°46.00’N;09°22.00’E;09°42.50’E;85/14;30000;54°00’N
-1454PlanA;DE;47;Plan A – Stadersand;53°36.30’N;53°40.00’N;09°30.30’E;09°34.20’E;85/14;15000;53°38’N
-1455;DE;48;Die Elbe von Schulau Bis Hambourg;;;;;89/11;Various;
-1455PartA;DE;48;Part A – Die Elbe von Schulau bis Teufelsbrück;53°31.10’N;53°35.20’N;09°38.90’E;09°52.40’E;89/11;30000;54°00’N
-1455PartB;DE;48;Part B - Hafen von Hamburg;53°27.75’N;53°33.25’N;09°49.10’E;10°02.40’E;89/11;15000;53°30’N
-1456;DE;2;Mündungen der Jade und Weser (Approaches to the Jade and Weser);53°40.75’N;54°00.40’N;07°41.00’E;08°30.90’E;86/13;50000;54°00’N
-1456PlanA;DE;2;Plan A - Dove Harle;53°46.10’N;53°47.50’N;07°49.15’E;07°52.35’E;86/13;25000;53°47’N
-1457;DE;4;Die Weser von Robbensordsteert bis Bremerhaven und Nordenham;53°28.80’N;53°43.00’N;08°18.30’E;08°35.60’E;00/12;25000;54°00’N
-1457PlanA;DE;4;Plan A – Hafen von Bremerhaven;53°31.50’N;53°34.90’N;08°32.80’N;08°35.70’E;00/12;12500;53°33’N
-1457PlanB;DE;4;Plan B – Continuation of Hafen von Bremerhaven;53°29.70’N;53°31.70’N;08°34.30’E;08°35.50’E;00/12;12500;53°33’N
-1458;DE;5;Die Weser von Nordenham bis Farge Part 1;53°19.60’N;53°30.00’N;08.26.00’E;08°32.50’E;07/09;25000;54°00’N
-1458;DE;5;Die Weser von Nordenham bis Farge Part 2;53°10.90.N;53°21.34’N;08°22.00’E;08°32.50’E;07/09;25000;54°00’N
-1458PlanA;DE;5;Plan A - Hafen von Brake;53°19.50’N;53°20.35.’N;08°28.80’E;08°29.80’E;07/09;10000;53°20’N
-1458PlanB;DE;5;Plan B - Hafen von Elsfleth;53°13.50’N;53°14.90’N;08°27.40’E;08°28.40’E;07/09;10000;53°10‘N
-1458PlanC1;DE;5;Plan C1 - Die Hunte von Huntebrück bis Oldenburg;53°09.00’N;53°12.20’N;08°19.20’E;08°27.20’E;07/09;50000;53°10’N
-1458PlanC2;DE;5;Plan C2 - Die Hunte von Huntebrück bis Oldenburg;53°07.00’N;53°10.00’N;08°12.00’E;08°20.00’E;07/09;50000;53°10‘N
-1458PlanD;DE;5;Plan D – Hafen von Oldenburg;53°08.25.N;53°08.70’N;08°13.10’E;08°15.30’E;07/09;20000;53°08’N
-1458PlanE;DE;5;Plan E – Huntemündung;53°14.70’N;53°15.75’N;08°28.15’E;08°29.25’E;07/09;10000;53°15’N
-1459;DE;6;Die Weser von Farge bis Bremen;;;;;07/14;25000;54°00’N
-1459PlanA;DE;6;Plan A - Farge bis Osterort;53°06.60’N;53°12.50’N;08°26.00’E;08°43.00’E;07/14;25000;54°00‘N
-1459PlanB;DE;6;Plan B - Vegesacker Kurve;53°09.50’N;53°10.80’N;08°34.20’E;08°39.00’E;07/14;12500;53°10’N
-1459PlanC;DE;6;Plan C – Hafen von Bremen;53°04.50’N;53°08.20’N;08°39.20’E;08°47.53’E;07/14;12500;57°07’N
-1459PlanD;DE;6;Plan D - Stephanibrûcke bis Hemelingen;53°01.90’N;53°05.00’N;08°47.20’E;08°53.20’E;07/14;25000;54°00’N
-1460;DE;7;Die Jade, Innerer Teil – (The Jade Inner Part);53°23.30’N;53°43.80’N;07°56.90’E;08°21.00’E;89/14;35000;54°00’N
-1460PlanA;DE;7;Plan A - Wilhelmshaven;53°30.40’N;53°32.70’N;08°06.85’E;08°10.35’E;89/14;15000;53º32’N
-1461;DE;90;Emsmündung – ( Entrance to the EMS);53°23.55’N;53°43.95’N;06°14.00’E;07°03.90’E;86/14;50000;54°00’N
-1461PlanA;DE;90;Plan A - Fischerbalje und Hafen von Borkum;53°32.96’N;53°33.96’N;06°42.40’E;06°45.82’E;86/14;15000;53°34’N
-1461PlanB;DE;90;Plan B - Eemshaven;53°26.46’N;53°27.86’N;06°48.42’E;06°51.12’E;86/14;20000;53°27’N
-1462;DE;91;Die Ems von Dukegat bis Pogum;53°17.85’N;53°28.15’N;06°51.45’E;07°16.42’E;93/13;25000;54°00’N
-1462PlanA;DE;91;Plans : A – Hafenanlagen von Emden;53°19.56’N;53°22.21’N;07°10.22’E;07°13.72’E;93/13;12500;53°21’N
-1462PlanB;DE;91;Plan B – Dollard (Dollart);53°13.76’N;53°20.46’N;07°03.92’E;07°14.42’E;93/13;50000;53°17’N
-1463;DE;49;Approaches to Elbe, Weser and Jade;53°40.00’N;54°15.00’N;07°24.00’E;09°03.00’E;08/12;100000;54°00’N
-1465;NL/GB;207;Hoek Van Holland to Vlaardingen Nieuwe Waterweg and Europoort (part A);51º53.50’N;52º01.60’N;03º57.00’E;04º16.20’E;10/13;20000;52º00’N
-1465;NL/GB;207;Continuation Nieuwe Waterweg (part B);51º51.50’N;51º54.80’N;04º13.10’E;04º20.50’E;10/13;20000;52º00’N
-1466;NL/GB;208;Rotterdam – Niewe Maas and Oude Maas;51º47.60’N;51º55.70’N;04º19.00’E;04º38.20’E;10/;20000;52º00’N
-1467PartA;NL/GB;209;Krimpen A/D lek to Moerdijk (part A – Krimpen A/D lek to Dordrecht);51º46.50’N;51º54.60’N;04º36.20’E;04º45.60’E;10/;20000;52º00’N
-1467PartB;NL/GB;209;Part B – Dordrecht to Moederdijk;51º40.50’N;51º48.60’N;04º30.10’E;04º39.50’E;10/;;
-1468;NL/GB;126;Approaches to Den Helder;52°37.00’N;53°12.50’N;04°11.40’E;04°51.50’E;03/13;60000;52°55’N
-1469;NL/GB;125;Approaches to Scheveningen and Ijmuiden;52°05.00’N;52°40.50’N;03°58.90’E;04°38.50’E;03/13;60000;52°25’N
-1469PlanA;NL/GB;125;Plan A – Ijmuiden;52°27.30’N;52°28.60’N;04°31.80’E;04°36.60’E;03/13;20000;52°25’N
-1469PlanB;NL/GB;125;Plan B - Scheveningen;52°05.60’N;52°06.50’N;04°14.70’E;04°16.40’E;03/13;15000;52°25’N
-1470;NL/GB;1546;Zeegat Van Texel and Den Helder Roads;52°51.95’N;53°04.05’N;04°26.72’E;04°56.12’E;01/11;30000;52°58’N
-1470PlanA;NL/GB;1546;Plan A - Den Helder;52°56.55’N;52°58.05’N;04°45.92’E;04°48.32’E;01/11;15000;
-1471PartA;NL/GB;124;Part A - Noordzee Kanaal including Ijmuiden, Zaandam and Amsterdam;52°25.23’N;52°28.72’N;04°30.22’E;04°43.19’E;82/10;15000;52°25’N
-1471PartB;NL/GB;124;Part B – Continuation of Noordzeekanaal;52°21.95’N;52°26.65’N;04°41.92’E;04°59.22’E;82/10;20000;52°25’N
-1472;NL/GB;122;Approaches to Europoort and Hoek Van Holland;51°51.25’N;52°15.49’N;03°18.84’E;04°16.50’E;83/13;60000;52°00’N
-1473;NL/GB;110;Westkapelle to Stellendam and Maasvlakte;51°32.14’N;52°02.45’N;02°56.93’E;04°08.64’E;85/13;75000;51°45’N
-1473PlanA;NL/GB;110;Plan A – Noordland Roompotsluis;51°35.95’N;51°37.75’N;03°37.92’E;03°42.12’E;85/13;40000;51°45’N
-1473PlanB;NL/GB;110;Plan B – Slijkgat to Stellendam;51°48.75’N;51°52.55’N;03°50.62’E;04°04.32’E;85/13;50000;51°45’N
-1474;BE;101;Belgische Nederlandse Kust, Monding van de Westerschelde van Oostende tot Westkapelle;51°12.95’N;51°37.15’N;02°40.52’E;03°37.32’E;85/12;60000;51°20’N
-1474PlanA;BE;101;Plan A – Vlissingen;51°25.75’N;51°27.55’N;03°33.82’E;03°36.52’E;85/12;25000;51°20’N
-1474PlanB;BE;101;Plan B – Zeebrugge;51°19.55’N;51°21.90’N;03°09.92’E;03°13.72’E;85/12;20000;51°20’N
-1474PlanC;BE;101;Plan C - Brugge;51°13.30’N;51°14.25’N;03°12.77’E;03°13.67’E;85/12;15000;51°20’N
-1478PartA;BE;106;Part A – Baalhoek tot Antwerpen;51°13.67’N;51°25.60’N;04°05.70’E;04°20.70’E;98/11;30000;51°20’N
-1478PartB;BE;106;Part B – Antwerpen tot Hoboken;51°10.67’N;51°14.63’N;04°19.26’E;04°24.33’E;98/11;15000;51°20’N
-1478PartC;BE;106;Part C – Hoboken tot Wintam;51°07.02’N;51°11.02’N;04°17.66’E;04°20.45’E;98/11;10000;51°20’N
-1479;NL/ GB;120;Westerschelde, Vlissingen to Baalhoek and Gent- Terneuzen Canal;51°19.44’N;51°33.45’N;03°29.91’E;04°07.72’E;97/11;40000;51°20’N
-1479PlanA;NL/ GB;120;Plan A - Breskens;51°23.50’N;51°24.20’N;03°33.42’E;03°34.82’E;97/11;20000;51°20’N
-1479PlanB;NL/ GB;120;Plan B - Braakmanhaven;51°19.90’N;51°21.35’N;03°45.16’E;03°46.82’E;97/11;25000;51°20’N
-1479PlanC;NL/ GB;120;Plan C – Terneuzen Anchorage;51°20.10’N;51°21.05’N;03°49.42’E;03°53.22’E;97/11;20000;51°20’N
-1479PlanD;NL/ GB;120;Plan D - Continuation to Gent;51°03.14’N;51°20.64’N;03°43.11’E;03°51.21’E;97/11;40000;51°20’N
-1479PlanE;NL/ GB;120;Plan E – Gent;51°04.35’N;51°07.15’N;03°43.22’E;03°45.72’E;97/11;25000;51°20’N
-1479PlanF;NL/ GB;120;Plan F – Approaches to Terneuzen;51°19.30’N;51°21.05’N;03°48.01’E;03°50.22’E;97/11;25000;51°20’N
-1479PlanG;NL/ GB;120;Plan G – Vlissingen Oost (Sloehaven);51°26.45’N;51°28.75’N;03°39.22’E;03°43.42’E;97/11;25000;51°20’N
-1479PlanH;NL/ GB;120;Plan H – Terneuzen;51°17.85’N;51°19.40’N;03°48.97’E;03°50.67’E;97/11;25000;51°20’N
-1479PlanI;NL/ GB;120;Plan I – Vlissingen;51°25.75’N;51°27.55’N;03°33.82’E;03°36.52’E;97/11;25000;51°20’N
-;;;;;;;;;;
-CENTRAL EASTERN NORTH SEA;;;;;;;;;;
-1300;DK;92;Skagerrak;57°05.00’N;59°10.00’N;06°10.00’E;12°00.00’E;96/13;360000;58°00’N
-1300PlanA;DK;92;Plan A - Hirtshals;57°35.42’N;57°36.47’N;09°56.92’E;09°59.12’E;96/13;12500;58°00’N
-1300PlanB;DK;92;Plan B – Oslofjorden;59°07.00’N;59°55.30’N;10°11.50’E;11°12.50’E;96/13;360000;58°00’N
-1300PlanC;DK;92;Plan C – Hanstholm;57°07.00’E;57°07.67’N;08°35.29’E;08°36.27’E;96/13;12500;58°00’N
-1310;SE;932;Gullholmen – Stenungsund – Marstrand;57°53.26’N;58°11.89’N;11°10.87’E;12°03.83’E;08/11;50000;57°40’N
-1310PlanA;SE;932;Plan A – Gullholmen – Hälleviksstrand;58°07.13’N;58°11.56’N;11°23.21’E;11°26.88’E;08/11;25000;-
-1310PlanB;SE;932;Plan B – Vinterholmen – Galterön;58°01.07’N;58°06.79’N;11°45.61’E;11°49.25’E;08/11;25000;-
-1310PlanC;SE;932;Plan C – Stenungsund;58°04.24’N;58°06.47’N;11°47.61’E;11°49.39’E;08/11;12500;-
-1311;SE;933;Hunnebostrand – Uddevalla – Gullholmen;58°10.07’N;58°28.49’N;11°03.94’E;11°57.36’E;08/12;50000;57°40’N
-1311PlanA;SE;933;Plan A – Malö strömmar;58°11.25’N;58°12.73’N;11°27.93’E;11°30.74’E;08/12;25000;-
-1311PlanB;SE;933;Plan B – Smögen-Kungshamn;58°20.71’N;58°22.18’N;11°11.75’E;11°15.80’E;08/12;25000;-
-1311PlanC;SE;933;Plan C – Lysekil;58°15.87’N;58°16.69’N;11°25.81’E;11°27.95’E;08/12;15000;-
-1311PlanD;SE;933;Plan D – Uddevalla;58°19.35’N;58°21.28’N;11°50.16’E;11°55.79’E;08/12;15000;-
-1311PlanE;SE;933;Plan E – Strömmarna;58°14.21’N;58°14.51’N;11°31.32’E;11°32.15’E;08/12;10000;-
-1312;SE;934;Syd-Koster – Hunnebrostrand;58°24.97’N;58°52.59’N;10°49.75’E;11°24.86’E;08/12;50000;57°40’N
-1312PlanA;SE;934;Plan A – Hamburgsund;58°30.64’N;58°33.98’N;11°14.95’E;11°17.10’E;08/12;25000;-
-1312PlanB;SE;934;Plan B – Havstenssund;58°44.34’N;58°45.84’N;11°10.01’E;11°11.56’E;08/12;20000;-
-1313;SE;937;Idefjorden – Strömstad;58°49.50’N;59°07.67’N;10°46.80’E;11°40.47’E;08/12;50000;57°40’N
-1313PlanA;SE;937;Plan A – Strömstad;58°55.48’N;58°57.00’N;11°06.00’E;11°10.50’E;08/12;10000;-
-1314;SE;9331;Brofjorden approach;58°10.04’N;58°24.23’N;11°09.17’E;11°27.22’E;08/11;25000;58°20’N
-1448;DK;108;Limfjorden Thyborøn-Mors;56°27.50’N;56°57.95’N;08°08.45’E;08°47.40’E;87/10;65000;56°00’N
-1448PlanA;DK;108;Plan A – Thyborøn Kanal;56°37.70’N;56°43.96’N;08°10.22’E;08°17.00’E;87/10;40000;56°00’N
-1448PlanB;DK;108;Plan B – Thyborøn;56°41.56’N;56°42.41’N;08°12.92’E;08°13.72’E;87/10;8000;56°00’N
-1448PlanC;DK;108;Plan C – Thyborøn Sydhavn;56°40.68’N;56°41.34’N;08°13.31.E;08°14.26’E;87/10;8000;56°00’N
-1448PlanD;DK;108;Plan D – Vilsundbroens Passage Span;56°52.97’N;56°53.13’N;08°37.67’E;08°38.15’E;87/10;6000;56°00’N
-1448PlanE;DK;108;Plan E - Venø Sund Snaevring;56°30.57’N;56°31.32’N;08°36.42’E;08°37.67’E;87/10;20000;56°00’N
-1448PlanF;DK;108;Plan F – Lemvig;56°32.92’N;56°33.30’N;08°18.12’E;08°18.64’E;87/10;8000;56°00’N
-1448PlanG;DK;108;Plan G - Holstebro-Struer;56°29.50’N;56°29.83’N;08°35.09’E;08°36.32’E;87/10;7000;56°00’N
-1448PlanH;DK;108;Plan H – Oddesundbroens Passage Span;;;;;87/10;;
-1449;DK;109;Limfjorden Mors – Løgstør;56°31.47’N;57°02.17’N;08°40.92’E;09°20.42’E;87/09;65000;56°00’N
-1449PlanA;DK;109;Plan A - Nykøbing Mors;56°46.97’N;56°47.76’N;08°51.72’E;08°52.82’E;87/09;9000;56°00’N
-1449PlanB;DK;109;Plan B – Passage Span;56°44.81’N;56°45.07’N;08°50.72’E;08°51.18’E;87/09;8000;56°00’N
-1449PlanC;DK;109;Plan C – Virksund;56°36.27’N;56°36.61’N;09°17.02’E;09°18.02’E;87/09;9000;56°00’N
-1450PartA;DK;105;Part A - Limfjorden Aalborg-Løgstor;56°57.20’N;53°03.95’N;09°08.90’E;09°36.00’E;04/07;30000;56°00’N
-1450PartB;DK;105;Part B - Limfjorden Aalborg-Løgstor;56°58.37’N;57°05.00’N;09°32.92’E;09°56.00’E;04/07;30000;56°00’N
-1450PlanA;DK;105;Plan A - Løgstor;56°57.99’N;56°58.30’N;09°14.56’E;09°15.74’E;04/07;7000;56°00’N
-;;;;;;;;;;
-SOUTHWESTERN NORTH SEA;;;;;;;;;;
-1480;BE;102;Frans – Belgische Kust, Van Duinkerke tot Oostende;51°02.95’N;51°27.25’N;02°04.92’E;03°01.72’E;87/12;60000;51°20’N
-1480PlanA;BE;102;Plan A – Oostende;51°13.37’N;51°14.62’N;02°54.72’E;02°56.52’E;87/12;15000;51°20’N
-1480PlanB;BE;102;Plan B – Nieuwport;51°08.00’N;51°09.45’N;02°42.82’E;02°45.52’E;87/12;20000;51°20’N
-1481;FR;6651;De Calais à Dunkerque;50°56.45’N;51°13.95’N;01°44.22’E;02°24.92’E;88/07;43100;51°05’N
-1482;FR;7057;Port De Dunkerque;50°58.95’N;51°07.05’N;02°05.12’E;02°23.92’E;87/06;20000;51°03’N
-1483;FR;7258;Abords de Calais;50°55.25’N;51°01.32’N;01°40.92’E;01°55.07’E;97/06;15000;50°58’N
-1483PlanA;FR;7258;Plan A – Port de Calais;50°57.25’N;50°58.35’N;01°50.22’E;01°52.27’E;97/06;7500;50°58’N
-1505;GB;1407;Montrose to Berwick-Upon-Tweed;56°38.00’N;56°50.33’N;03°30.00’W;00°11.22’W;95/09;200000;58°00’N
-1506;GB;1192;Saint Abb’s Head to the River Tyne;54°46.07’N;56°00.00’N;02°18.11’W;01°00.74’E;88/10;200000;58°00’N
-1507;GB;1191;River Tyne to Flamborough Head;53°57.60’N;55°13.01’N;01°40.11’W;01°38.75’E;86/12;200000;58°00’N
-1508;GB;1190;East Coast Flamborough Head to Blakeney Point;52°45.01’N;54°07.52’N;00°13.95’W;01°09.39’E;85/10;150000;51°00’N
-1509;GB;1503;Outer Dowsing to Smiths Knoll;52°49.02’N;53°38.26’N;00°47.89’E;03°08.93’E;84/13;150000;51°00’N
-1510;GB;1504;Cromer to Orford Ness;52°04.92’N;52°55.73’N;01°09.89’E;03°28.38’E;83/13;150000;51°00’N
-1511;GB;1610;Approaches to the Thames Estuary;50°52.03’N;52°19.86’N;00°58.49’E;02°21.84’E;94/12;150000;51°00'N
-1512;FR;6735;Pas de Calais – De Boulogne sur Mer à Zeebrugge – Estuaire de la Tamise (Thames);50°40.95’N;51°41.35’N;00°54.92’E;03°15.92’E;84/12;150000;51°11'N
-1543;GB;1481;River Tay;56°24.30’N;56°32.80’N;03°03.00’W;02°36.27’W;89/12;25000;**
-1543PlanA;GB;1481;Plan A - Dundee Docks;56°26.69’N;56°28.31’N;02°58.55’W;02°54.58’W;89/12;12500;**
-1543PlanB;GB;1481;Plan B – Continuation of River Tay to Perth;56°20.23’N;56°27.49’N;03°26.09’W;02°58.58’W;89/12;100000;**
-1544;GB;734;Firth of Forth, Isle of May to Inchkeith;55°56.39’N;56°13.65’N;03°16.89’W;02°27.91’W;93/13;50000;**
-1544PlanA;GB;734;Plan A – Kirkcaldy;56º06.50’N;56º07.25’N;03º09.50’W;03º08.31’W;93/13;10000;**
-1545;GB;735;Firth of Forth, Approaches to Leith and Burntisland;55°56.50’N;56°05.26’N;03°17.40’W;02°58.55’W;89/11;25000;**
-1545PlanA;GB;735;Plan A - Leith;55°58.30’N;56°00.65’N;03°12.15’W;03°09.24’W;89/11;10000;**
-1546;GB;736;Firth of Forth, Granton and Burntisland to Rosyth;55°58.64’N;56°03.90’N;03°28.39’W;03°12.52’W;86/12;15000;**
-1547;GB;737;River Forth, Rosyth to Kincardine;55°58.39’N;56°04.50’N;03°44.19’W;03°27.00’W;95/10;17500;**
-1547PlanA;GB;737;Plan A - Crombie Jetty;56°01.72’N;56°02.58’N;03°33.22’W;03°30.58’W;95/10;7500;**
-1548;GB;733;Firth of Forth, Burntisland to Dalgety Bay;56°01.10’N;56°03.80’N;03°20.30’W;03°13.20’W;02/10;7500;**
-1549;GB;152;River Tyne to River Tees;54º30.00’N;55º08.84’N;01º33.34’W;00º50.10’W;09/12;75000;54º00’N
-1550;GB;1934;River Tyne;54°58.90’N;55°01.45’N;01°29.99’W;01°23.10’W;86/13;7500;**
-1550PlanA;GB;1934;Part A - Willington Quay to Saint Anthony’s Point;54°57.40’N;54°59.51’N;01°33.35’W;01°29.34’W;86/13;12500;**
-1550PlanB;GB;1934;Part B - Saint Anthony’s Point to Dunston;54°57.37’N;54°58.38’N;01°39.15’W;01°32.85’W;86/13;12500;**
-1551;GB;1627;Harbours on the East Coast of England;90/08;Various;**;;;;
-1551PlanA;GB;1627;Plan A – Sunderland;54°52.81’N;54°56.21’N;01°23.02’W;01°18.11’W;90/08;10000;**
-1551PlanB;GB;1627;Plan B – Warkworth Harbour;55°18.30’N;55°21.61’N;01°37.00’W;01°30.69’W;90/08;15000;**
-1551PlanC;GB;1627;Plan C – Cont. of River Wear;54°54.27’N;54°55.41’N;01°25.09’W;01°22.95’W;90/08;10000;**
-1551PlanD;GB;1627;Plan D - Seaham;54°49.34’N;54°50.77’N;01°20.50’W;01°18.09’W;90/08;12500;**
-1552;GB;2566;England – East Coast, Tees and Hartlepool Bays;;;;;85/12;20000;**
-1552PartA;GB;2566;Part A – Tees Bay;54°35.28’N;54°42.19’N;01°13.35’W;01°05.17’W;85/12;20000;**
-1552PartB;GB;2566;Part B – Continuation of River Tees;54°33.46’N;54°36.40’N;01°18.80’W;01°08.70’W;85/12;20000;**
-1552PlanC;GB;2566;Plan C – Hartlepool Bay;54°40.31’N;54°42.23’N;01°12.80’W;01°09.25’W;85/12;10000;**
-1553;GB;1188;River Humber – Spurn Head to Immingham;53°31.46’N;53°39.96’N;00°13.19’W;00°08.98’E;84/13;25000;**
-1553PlanA;GB;1188;Plan A - Grimsby;53°34.04’N;53°35.35’N;00°05.62’W;00°03.25’W;84/13;10000;**
-1554;GB;3497;River Humber, Immingham to Humber Bridge and the Rivers Ouse and Trent;53°36.81’N;53°45.32’N;00°27.66’W;00°04.53’W;83/13;25000;**
-1554PlanA;GB;3497;Plan A – Humber Bridge to Whitton Ness;53°40.36’N;53°44.20’N;00°37.15’W;00°26.70’W;83/13;50000;**
-1554PlanB;GB;3497;Plan B – Whitton Ness to Goole and Keadby;53°35.01’N;53°44.05’N;00°52.30’W;00°35.80’W;83/13;50000;**
-1554PlanC;GB;3497;Plan C – Keadby to Gainsborough;53°24.16’N;53°35.17’N;00°50.05’W;00°40.09’W;83/13;100000;**
-1554PlanD;GB;3497;Plan D – Goole;53°41.71’N;53°42.23’N;00°52.91’W;00°51.72’W;83/13;5000;**
-1556;GB;1200;The Wash Ports;52°47.27’N;53°00.43’N;00°02.61’W;00°31.42’E;85/12;37500;**
-1556PlanA;GB;1200;Plan A – Boston;52°57.90’N;52°58.40’N;00°01.70’W;00°00.40’W;85/12;10000;**
-1556PlanB;GB;1200;Plan B – Approaches to Boston;52°55.70’N;52°57.25’N;00°04.12’E;00°08.42’E;85/12;20000;**
-1556PlanC;GB;1200;Plan C – Continuation to River Nene;52°42.00’N;52°47.97’N;00°09.18’E;00°12.79’E;85/12;50000;**
-1556PlanD;GB;1200;Plan D – Continuation of the River Nene to Wisbech;52°39.78’N;52°42.51’N;00°08.65’E;00°12.03’E;85/12;50000;**
-1556PlanE;GB;1200;Plan E – Lynn Cutt (continued);52°45.46’N;52°47.6’N;00°21.09’E;00°23.90’E;85/12;37500;**
-1556PlanF;GB;1200;Plan F – King’s Lynn;52°44.65’N;52°45.87’N;00°23.00’E;00°23.94’E;85/12;10000;**
-1558;GB;1534;Great Yarmouth and Approaches;52°30.75’N;52°44.23’N;01°38.79’E;01°53.60’E;08/13;25000;**
-1558PlanA;GB;1534;Plan A – Great Yarmouth Outer Harbour;52°34.25’N;52°35.03’N;01°43.68’E;01°45.04’E;08/13;7500;**
-1558PlanB;GB;1534;Plan B – Great Yarmouth Haven;52°34.59’N;52°36.44’N;01°43.29’E;01°44.16’E;08/13;7500;**
-1559;GB;1535;Lowestoft and Approaches;52°23.51’N;52°35.00’N;01°40.67’E;01°55.00’E;08/13;25000;**
-1559PlanA;GB;1535;Plan A – Lowestoft Harbour;52°28.24’N;52°28.70’N;01°42.51’E;01°46.10’E;08/13;6250;**
-1560;GB;2052;Orford Ness to the Naze;51°48.53’N;52.06.00’N;01°16.84’E;02°04.69’E;84/13;50000;**
-1561;GB;1183;Thames Estuary;51°21.60’N;51°56.67’N;00°32.80’E;02°01.26’E;83/13;100000;51°40'N
-1562;GB;1607;Thames Estuary, Southern Part;51°19.43’N;51°36.96’N;00°51.79’E;01°35.70’E;87/13;50000;**
-1563;GB;1828;Dover to North Foreland;51°05.23’N;51°27.48’N;01°17.89’E;01°38.45’E;87/13;37500;**
-1563PlanA;GB;1828;Plan A – Ramsgate;51°19.42’N;51°20.03’N;01°24.42’E;01°25.52’E;87/13;5000;**
-1564;GB;323;Dover Strait – Eastern Part;50°55.00’N;51°24.95’N;01°17.12’E;02°26.90’E;99/13;75000;**
-1565;GB;3496;River Humber, Immingham and Hull;;;;;11/13;;-
-1565PlanA;GB;3496;Plan A - Hull Docks, Eastern Part;53°43.18’N;53°44.91’N;00°19.80’W;00°13.89’W;11/13;10000;**
-1565PlanB;GB;3496;Plan B - Hull Docks, Western Part;53°43.75’N;53°44.51’N;00°21.84’W;00°19.48’W;11/13;10000;**
-1565PlanC;GB;3496;Plan C - Immingham Oil Terminal to Humber Sea Terminal;53°37.05’N;53°40.55’N;00°14.89’W;00°09.00’W;11/13;10000;**
-1566;GB;104;Approaches to the Humber Traffic Separation Scheme;53°27.35’N;53°40.50’N;00º02.65’E;00º37.20’E;12/13;37500;**
-1570;GB;2693;Approaches to Felixstove, Harwich and Ipswich with the Rivers Stour, Orwell and Deben;51°54.72’N;52°03.23’N;01°07.49’E;01°31.48’E;83/12;25000;**
-1570PlanA;GB;2693;Plan A – Continuation of River Stour;51°56.27’N;51°57.63’N;01°03.89’E;01°07.95’E;83/12;25000;**
-1570PlanB;GB;2693;Plan B – Ipswich;52°01.88’N;52°03.22’N;01°08.99’E;01°10.09’E;83/12;10000;**
-1570PlanC;GB;2693;Plan C – Continuation of River Deben;52°03.12’N;52°05.73’N;01°18.49’E;01°20.80’E;83/12;25000;**
-1571;GB;3741;Rivers Colne and Blackwater;51°41.03’N;51°49.80’N;00°41.99’E;01°05.86’E;94/11;25000;**
-1571PlanA;GB;3741;Plan A – Brightling sea;51°47.33’N;51°48.62’N;00°59.69’E;01°02.25’E;94/11;12500;**
-1571PlanB;GB;3741;Plan B – Continuation of River Colne;51°49.67’N;51°52.44’N;00°55.96’E;01°01.45’E;94/11;12500;**
-1571PlanC;GB;3741;Plan C – Colchester Quays;51°52.28’N;51°53.11’N;00°55.43’E;00°56.51’E;94/11;12500;**
-1571PlanD;GB;3741;Plan D – Bradwell;51°43.79’N;51°44.79’N;00°52.59’E;00°53.70’E;94/11;12500;**
-1571PlanE;GB;3741;Plan E – West Mersea;51°46.28’N;51°46.94’N;00°53.20’E;00°54.31’E;94/11;12500;**
-1571PlanF;GB;3741;Plan F – Tollesbury Yacht Harbour;51°45.38’N;51°45.99’N;00°50.79’E;00°51.93’E;94/11;12500;**
-1571PlanG;GB;3741;Plan G - Maldon;51°43.29’N;51°44.54’N;00°40.69’E;00°43.25’E;94/11;12500;**
-1572;GB;1185;River Thames, Sea Reach;51°24.83’N;51°33.67’N;00°32.19’E;00°54’.41’E;87/13;25000;**
-1573;GB;2482;River Medway and The Swale - Part 1;51°17.47’N;51°26.24’N;00°25.24’E;00°46.32’E;88/12;25000;**
-1573Cont;GB;2482;Cont. of the Swale;51°18.97’N;51°23.49’N;00°43. 89’E;00°58.96’E;88/12;25000;**
-1573PlanA;GB;2482;Plan A - Ferry Reach;51°22.93’N;51°23.74’N;00°44.72’E;00°46.10’E;88/12;12500;**
-1573PlanB;GB;2482;Plan B – Continuation to Rochester;51°22.98’N;51°23.89’N;00°29.96’E;00°31.14’E;88/12;12500;**
-1573PlanC;GB;2482;Plan C – Continuations to Maidstone;51°16.23’N;51°17.86’N;00°29.70’E;00°31.64’E;88/12;25000;**
-1574;GB;2484;Hole Haven to London Bridge;;;;;85/13;;**
-1574PlanA;GB;2484;Plan A – Hole Haven to Purfleet;51°26.23’N;51°31.34’N;00°12.60’E;00°33.74’E;85/13;25000;**
-1574PlanB;GB;2484;Plan B – Purfleet to London Bridge;51°28.13’N;51°31.37’N;00°05.40’E;00°15.76’E;85/13;25000;**
-1574PlanC;GB;2484;Plan C – Cont. of Hole Haven Creek;51°30.68’N;51°32.94’N;00°30.05’E;00°33.41’E;85/13;25000;**
-1574PlanD;GB;2484;Plan D - Thames Tidal Barrier;51°29.58’N;51°30.11’N;00°01.62’E;00°02.82’E;85/13;5000;**
-1580;GB;1491;Harwich and Felixstowe;51°54.77’N;51°58.23’N;01°12.89’E;01°21.44’E;83/10;10000;**
-;;;;;;;;;;
-CENTRAL WESTERN BRITISH ISLES;;;;;;;;;;
-1062;GB;1121;British Isles, Irish Sea with Saint George’s Channel and North Channel;51°09.00’N;55°43.10’N;07°32.00’W;02°31.90’W;87/00;500000;55°00’N
-1064;GB;1125;Western Approaches to Ireland;51°22.00’N;54°26.15’N;16°00.00’W;08°20.69’W;85/;500000;55°00’N
-1065;GB;1127;Outer Approaches to the North Channel;54°13.30’N;57°03.00’N;15°10.00’W;06°30.00’W;93/07;500000;55°00’N
-1604;GB;2722;Skerryvore to Saint Kilda;56°02.00’N;57°50.68’N;09°09.95’W;07°00.00’W;06/11;200000;58°00’N
-1605;GB;2723;Western Approaches to the North Channel;54°55.99’N;56°09.63’N;09°25.92’W;06°07.07’W;90/05;200000;58°00’N
-1606;GB;2724;North Channel to the Firth of Lorn;54°34.99’N;56°27.80’N;06°40.96’W;04°31.07’W;06/;200000;58°00’N
-1607;GB;1826;Irish Sea – Eastern Part;53º07.01’N;55º03.88’N;04º55.97’W;02º46.08’W;92/13;200000;58°00’N
-1608;GB;1411;Irish Sea – Western Part;52º44.01’N;54º56.02’N;06º25.07’W;04º15.18’W;84/00;200000;58°00’N
-1609;GB;1410;St. George’s Channel;51º40.48’N;53º00.00’N;07º10.07’W;03º51.20’W;92/02;200000;58°00’N
-1610;GB;1179;Bristol Channel;50°58.02’N;51°49.36’N;05°00.08’W;02°39.06’W;84/12;150000;51°00’N
-1612;GB;2049;Old Head of Kinsale to Tuskar Rock;51°20.00’N;52°14.04’N;08°32.45’W;06°05.00’W;95/12;150000;53°00'N
-1613;GB;2424;Kenmare River to Cork Harbour;51º05.00’N;51º58.52’N;10º22.47’W;07º55.00’W;95/10;150000;53°00'N
-1616;GB;2173;Loop Head to Slyne Head;52º32.00’N;53º24.61’N;11º05.35’W;08º54.04’W;84/;150000;53°00’N
-1617;GB;2420;Aran Islands to Broad Haven Bay;53°06.70’N;54°26.10’N;10°57.20’W;09°31.40’W;84/;150000;53°00'N
-1627;GB;1796;Barra Head to Point of Ardnamurchan;56°29.48’N;57°04.64’N;07°51.13’W;06°13.06’W;88/09;100000;57°30’N
-1634;GB;1907;Firth of Clyde Little Cumbrae Island to Cloch Point;55°42.20’N;55°56.80’N;05°06.00’W;04°50.80’W;83/03;25000;**
-1634PlanA;GB;1907;Plan A – Loch Striven, Nato Fuel Jetty;55°53.20’N;55°54.02’N;05°04.26’W;05°02.76’W;83/03;10000;**
-1635;GB;3746;Loch Long and Loch Goil;55°56.29’N;56°10.58’N;04°57.98’W;04°42.85’W;95/13;25000;**
-1635PlanA;GB;3746;Plan A – Upper Loch Long;56°06.77’N;56°13.00’N;04°50.78’W;04°44.30’W;95/13;25000;**
-1635PlanB;GB;3746;Plan B – Approaches to Finnart;56°04.99’N;56°07.50’N;04°52.68’W;04°49.43’W;95/13;12500;**
-1636;GB;1994;Approaches to the River Clyde;55°56.33’N;56°00.59’N;04°57.65’W;04°41.93’W;91/13;15000;**
-1636PlanA;GB;1994;Plan A - Greenock - Great Harbour;55°56.30’N;55°56.87’N;04°43.75’W;04°42.37’W;91/13;5000;**
-1637;GB;2007;River Clyde;55°55.33’N;56°00.59’N;04°43.08’W;04°28.67’W;95/10;15000;**
-1637ContB;GB;2007;Continuation B;55°53.19’N;55°55.97’N;04°29.58’W;04°23.47’W;95/10;;**
-1637ContC;GB;2007;Continuation C;55°51.89’N;55°53.59’N;04°24.28’W;04°19.07’W;95/10;;**
-1637ContD;GB;2007;Continuation D;55°51.17’N;55°52.17’N;04°19.98’W;04°14.77’W;95/10;;**
-1640;GB;2010;Morecambe Bay and Approaches;53°48.66’N;54°06.38’N;03°31.58’W;02°46.94’W;88/13;50000;**
-1641;GB;1552;Ports in Morecambe Bay;;;;;86/08;Various;**
-1641PlanA;GB;1552;Plan A – River Luné and approaches to Heysham;53°57.67’N;54°03.40’N;03°03.49’W;02°46.82’W;86/08;25000;**
-1641PlanB;GB;1552;Plan B – Approaches to Fleetwood;53°51.04’N;53°59.82’N;03°04.09’W;02°57.69’W;86/08;25000;**
-1641PlanC;GB;1552;Plan C – Fleetwood;53°54.76’N;53°56.10’N;03°01.09’W;02°59.51’W;86/08;10000;**
-1641PlanD;GB;1552;Plan D - Heysham;54°01.14’N;54°02.49’N;02°56.89’W;02°54.50’W;86/08;110000;**
-1641PlanE;GB;1552;Plan E - Glasson;53°58.84’N;54°00.30’N;02°53.23’N;02°50.08’W;86/08;12500;**
-1642;GB;1951;Approaches to Liverpool;53°26.21’N;53°34.85’N;03°22.21’W;03°00.08’W;83/13;25000;**
-1643;GB;3490;Port of Liverpool;;;;;86/12;;
-1643PlanA;GB;3490;Plan A -;53°22.31’N;53°28.22’N;03°04.09’W;02°58.68’W;86/12;15000;**
-1643PlanB;GB;3490;Plan B -;53°19.06’N;53°24.34’N;03°00.89’W;02°51.82’W;86/12;15000;**
-1644;GB;3478;Manchester Ship Canal and Upper Mersey;53°22.21’N;53°29.21’N;02°37.64’W;02°15.55’W;93/01;25000;**
-1644;GB;3478;Continuation to Eastham Locks;53°16.21’N;53°22.70’N;02°57.35’W;02°35.47’W;93/01;25000;**
-1644PlanA;GB;3478;Plan A – Ellesmere Port and Stanlow Oil Docks;53°17.09’N;53°17.61’N;02°53.99’W;02°50.18’W;93/01;10000;**
-1644PlanB;GB;3478;Plan B – Runcorn and Weston Point Docks;53°19.43’N;53°20.62’N;02°45.89’W;02°44.48’W;93/01;10000;**
-1644PlanC;GB;3478;Plan C – Partington Basin;53°25.41’N;53°25.82’N;02°25.81’W;02°25.04’W;93/01;10000;**
-1644PlanD;GB;3478;Plan D – Manchester Docks;53°27.79’N;53°28.62’N;02°18.59’W;02°15.58’W;93/01;10000;**
-1649;GB;3273;Entrance to Milford Haven;51°36.15’N;51°42.90’N;05°13.65’W;05°06.38’W;01/13;12500;**
-1650;GB;3274;Milfor Haven, Saint Ann’s Head to Newton Noyes Pier;51°39.67’N;51°43.93’N;05°11.17’W;05°00.10’W;87/13;12500;**
-1651;GB;3275;Milford Haven;51°40.27’N;51°44.53’N;05°02.37’W;04°51.74’W;88/13;12500;**
-1651PlanA;GB;3275;Plan A - Pembroke Reach;51°41.69’N;51°42.33’N;04°58.14’W;04°56.44’W;88/13;5000;**
-1651PlanB;GB;3275;Plan B – Continuation of River Cleddau;51°44.22’N;51°46.13’N;04°55.07’W;04°52.86’W;88/13;12500;**
-1651PlanC;GB;3275;Plan C – Continuation of River Cleddau;51°45.52’N;51°48.43’N;04°58.47’W;04°48.27’W;88/13;50000;**
-1651PlanD;GB;3275;Plan D - Carew River;51°41.38’N;51°44.03’N;04°53.37’W;04°49.06’W;88/13;50000;**
-1652;GB;1161;Swansea Bay;51°29.39’N;51°38.03’N;04°03.08’W;03°41.04’W;94/01;25000;**
-1652PlanA;GB;1161;Plan A – River Neath;51°37.02’N;51°39.19’N;03°51.08’W;03°49.23’W;94/01;12500;**
-1653;GB;1182;Barry and Cardiff Roads with Approaches;51°19.92’N;51°29.24N;03°18.58’W;03°05.02’W;86/12;25000;**
-1653PlanA;GB;1182;Plan A - Barry Docks;51°22.48’N;51°24.37’N;03°17.53’W;03°14.07’W;86/12;12500;**
-1653PlanB;GB;1182;Plan B - Cardiff Docks;51°25.97’N;51°28.23’N;03°11.96’W;03°08.09’W;86/12;15000;**
-1654;GB;1176;Severn Estuary Steep Holm to Avonmouth;51°20.02’N;51°33.62’N;03°12.88’W;02°39.13’W;83/13;40000;**
-1654PlanA;GB;1176;Plan A - Newport;51°31.42’N;51°35.48’N;03°00.08’W;02°57.52’W;83/13;20000;**
-1655;GB;1859;Port of Bristol;;;;;84/13;;**
-1655PlanA;GB;1859;Plan A – King Road;51°29.16’N;51°31.83’N;02°47.13’W;02°41.43’W;84/13;10000;**
-1655PlanB;GB;1859;Plan B – River Avon;51°26.87’N;51°29.53’N;02°42.78’W;02°37.08’W;84/13;10000;**
-1655PlanC;GB;1859;Plan C - City Docks;51°26.70’N;51°27.24’N;02°37.63’W;02°35.43’W;84/13;5000;**
-1655PlanD;GB;1859;Plan D – City Docks to Saint Anne’s Bridge;51°26.22’N;51°27.73’N;02°35.64’W;02°32.78’W;84/13;25000;**
-1658;GB;2510;Approaches to Londonderry;;;;;05/;Various;
-1658PlanA;GB;2510;Plan A – Moville to Lisahally terminal, Northern Part;55°06.30’N;55°11.56’N;07°12.86’W;07°00.53’W;05/;15000;**
-1658PlanB;GB;2510;Plan B – Moville to Lisahally Terminal, Southern Part;55°01.90’N;55°07.16’N;07°16.50’W;07°11.03’W;05/;15000;**
-1658PlanC;GB;2510;Plan C – Lisahally Terminal;55°02.10’N;55°03.20’N;07°16.50’W;07°14.32’W;05/;7500;**
-1658PlanD;GB;2510;Plan D – Lisahally Terminal to Londonderry;54°59.30’N;55°03.00’N;07°19.45’W;07°15.07’W;05/;15000;**
-1659;GB;2511;Approaches to Lough Foyle;55°08.30’N;55°17.06’N;07°08.80’W;06°42.92’W;05/13;25000;**
-1659PlanA;GB;2511;Plan A - Lough Foyle;55°02.30’N;55°12.30’N;07°15.90’W;06°56.13’W;05/13;50000;**
-1661;GB;1753;Belfast Lough and approaches;54°35.50’N;54°48.65’N;06°00.97’W;05°25.45’W;86/12;37500;**
-1661PlanA;GB;1753;Plan A – Donaghadee Sound;54°38.26’N;54°40.49’N;05°34.60’W;05°30.06’W;86/12;15000;**
-1661PlanB;GB;1753;Plan B - Bangor Bay;54°39.60’N;54°41.14’N;05°41.12’W;05°37.76’W;86/12;17500;**
-1662;GB;1431;Drogheda and Dundalk;;;;;88/11;Various;**
-1662PlanA;GB;1431;Plan A – Approaches to the River Boyne;53°40.42’N;53°48.40’N;06°17.11’W;06°07.00’W;88/11;20000;**
-1662PlanB;GB;1431;Plan B – River Boyne to Drogheda;53°42.75’N;53°44.00’N;06°21.00’W;06°13.50’W;88/11;30000;**
-1662PlanC;GB;1431;Plan C – Dundalk and approaches;53°56.50’N;54°01.00’N;06°24.10’W;06°13.94’W;88/11;7500;**
-1663;GB;1415;Dublin Bay;53°15.83’N;53°24.60’N;06°16.00’W;05°54.00’W;88/12;25000;**
-1663PlanA;GB;1415;Plan A - Howth;53°23.19’N;53°23.85’N;06°04.50’W;06°03.45’W;88/12;7500;**
-1664;GB;1752;Northern Ireland – East Coast, Approaches to Belfast;54°38.33’N;54°43.59’N;05°58.39’W;05°44.17’W;04/12;15000;**
-1664PlanA;GB;1752;Plan A – Belfast Docks;54°35.90’N;54°39.10’N;05°55.30’W;05°50.83’W;04/12;12500;**
-1670;GB;1777;Port of Cork, Lower Harbour and approaches;51°44.83’N;51°51.58’N;08°20.45’W;08.13.60’W;93/05;12500;**
-1671;GB;1773;Port of Cork, Upper Harbour;;;;;93/05;;
-1671PartA;GB;1773;Part A – Upper Harbour West;51°50.02’N;52°54.41’N;08°29.65’W;08°18.98’W;93/05;12500;**
-1671PartB;GB;1773;Part B – Upper Harbour East;51°50.02’N;51°53.49’N;08°16.05’W;08°10.61’W;93/05;12500;**
-;;;;;;;;;;
-SCOTLAND AND ADJACENT ISLANDS;;;;;;;;;;
-1060;GB;219;Western Approaches to the Orkney and Shetland Islands;58°28.60’N;61°00.00’N;08°41.80’W;00°06.10’W;90/12;500000;55°00'N
-1061;GB;2635;Scotland, West Coast;55°00.00’N;59°09.90’N;09°16.10’W;04°16.00’W;83/11;500000;55°00'N
-1500;GB;1233;Northern Approaches to the Shetland Islands;60°05.96’N;61°09.76’N;02°48.99’W;00°29.87’E;84/12;200000;58°00'N
-1501;GB;1119;Orkney and Shetland Islands Fair Isle Channel;59°18.64’N;60°24.98’N;03°13.33’W;00°29.87’E;84/12;200000;58°00'N
-1502;GB;1942;Fair Isle to Wick;58°26.47’N;59°33.48’N;03°13.33’W;00°29.87’E;88/13;200000;58°00'N
-1503;GB;115;Scotland-East Coast, Moray Firth;57°33.98’N;58°42.67’N;04°24.10’W;01°05.21’W;93/13;200000;58°00'N
-1504;GB;1409;Buckie to Arbroath;56°24.98’N;58°12.58’N;03°02.10’W;00°52.22’W;93/13;200000;58°00'N
-1530;GB;3298;Yell Sound;60º26.11’N;60º43.89’N;01º12.12’W;01º00.87’W;86/12;30000;**
-1531;GB;3297;Sullom Voe;60º23.26’N;60º30.27’N;01º23.12’W;01º14.54’W;87/00;12500;**
-1532;GB;2581;Southern approaches to Scapa Flow;58°38.06’N;58°53.48’N;03°10.70’W;02°53.23’W;87/10;26000;**
-1540;GB;1889;Cromarty Firth Cromarty Bank to Invergordon;57°38.93’N;57°44.03’N;04°10.89’W;03°56.11’W;90/10;15000;**
-1540PlanA;GB;1889;Plan A - Invergordon;57°40.80’N;57°41.40’N;04°10.80’W;04°09.40’W;90/10;5000;**
-1542;GB;1446;Aberdeen Harbour;57°07.72’N;57°09.59’N;02°05.85’W;02°01.16’W;94/10;7500;**
-1542PlanA;GB;1446;Plan A – Approaches to Aberdeen;57°07.48’N;57°11.60’N;02°05.85’W;01°56.48’W;94/10;15000;**
-1600;GB;1234;North Western Approaches to the Orkney Islands;59°18.63’N;60°24.97’N;05°18.88’W;02°00.00’W;84/11;200000;58°00'N
-1601;GB;1954;Cape Wrath to Pentland Firth including the Orkney Islands;58°25.97’N;59°32.99’N;05°33.96’W;02°15.10’W;88/11;200000;58°00'N
-1602;GB;2720;Flannan Isles to Sule Skerry;58°11.70’N;59°20.22’N;08°06.29’W;04°23.09’W;83/11;200000;58°00'N
-1603;GB;2721;Saint Kilda to Butt of Lewis;57°30.62’N;58°40.48’N;09°26.96’W;06°08.08’W;83/11;200000;58°00'N
-1625;GB;1794;North Minch, Southern Part;57°41.42’N;58°15.98’N;06°46.64’W;05°03.57’W;83/13;100000;57°30'N
-1626;GB;1795;The Little Minch, Southern Part;56°53.39’N;57°45.10’N;07°24.56’W;06°17.50’W;83/11;100000;57°30'N
-1630;GB;1757;The Little Minch, Northern Part;57°22.60’N;58°16.00’N;07°04.26’W;05°57.20’W;07/13;100000;57°30'N
-;;;;;;;;;;
-ICELAND;;;;;;;;;;
-1100;IS;61;North east Coast, Raudinúpur to Glettinganes;65°30.00’N;67°10.00’N;16°40.00’W;10°33.00’W;94/09;300000;65°00'N
-1101;IS;71;Glettinganes – Stokksnes;63°50.00’N;65°35.00’N;15°05.00’W;09°00.00’W;07/;300000;65°00'N
-1102;IS;81;Stokksnes to Dyrhólaey;62°30.00’N;64°20.00’N;19°15.00’W;13°10.00’W;04/;300000;65°00'N
-1103;IS;31;Dyrhólaey Snæfellsnes;63°02.00’N;64°52.00’N;25°16.00’W;19°08.00’W;98/08;300000;65°00'N
-1104;IS;41;Vestfir?ir;64°42.00’N;67°11.00’N;26°28.00’W;22°20.00’W;08/;300000;65°00'N
-1105;IS;51;North Coast of Iceland, Horn - Raudinúpur;65°32.00’N;67°12.00’N;22°33.00’W;16°25.00’W;01/10;300000;65°00'N
-1105PlanA;IS;51;Plan A – Continuation of Húnaflói;65°08.00’N;65°40.00’N;21°30.00’W;20°52.00’W;01/10;300000;65°00'N
-1110;IS;57;Eyjafjördur;65°40.00’N;66°29.00’N;19°23.00’W;18°00.00’W;98/03;100000;65°00'N
-1111;IS;73;Glettinganes Hla?a;64°40.50’N;65°31.00’N;14°16.00’W;12°54.50’W;95/07;100000;65°00'N
-1112;IS;36;Selvogur – Hjörsey (Approaches to Reykjavík);63°39.00’N;64°32.00’N;22°59.00’W;21°36.00’W;97/09;100000;65°00'N
-1113;IS;362;Reykjavík;64°07.91’N;64°11.59’N;22°00.25’W;21°48.00’W;01/13;10000;65°00'N
-1114;IS;46;Ísafjardardjúp;65°46.00’N;66°35.00’N;23°43.00’W;22°20.00’W;03/10;100000;65°00'N
-1118;IS;530;Akureyri;65°40.00’N;65°43.00’N;18°08.00’W;18°02.00’W;98/07;10000;65°00'N
+SMALL AND MEDIUM SCALE INT CHARTS,,,,,,,,,,
+101,NO,304,Norskehavet. Norge – Island (Norway to Iceland),59°25.00’N,68°42.00’N,17°00.00’W,16°20.00’E,76/08,3500000,22°30'N
+102,GB,4102,Western Approaches to the British Isles,48°15.00’N,60°38.00’N,34°15.00’W,00°55.00’W,72/11,3500000,22°30'N
+112,IS,10,Iceland to Greenland,59°25.00’N,68°42.00’N,45°20.00’W,12°00.00’W,72/11,3500000,22°30'N
+140,NO,301,Nordsjøen (Nordsee) (North Sea),48°10.00’N,62°50.00’N,04°20.00’W,12°36.00’E,72/09,1500000,60°00'N
+160,GB,2,British Isles,48°10.0’N,62°50.00’N,13°47.20’W,03°25.00’E,83/13,1500000,60°00'N
+1002,NO,302,Bergen – Andenes,60°20.00’N,69°25.00’N,01°00.00’E,16°20.00’E,,1000000,65°00’N
+1010,IS,21,Island,62°00.00’N,67°50.00’N,29°00.00’W,08°30.00’W,08/,1000000,65°00'N
+,,,,,,,,,,
+FROM COASTS OF THE CHANNEL AND OF THE NORTH SEA TO ICELAND,,,,,,,,,,
+1011,DK,80,Waters around the Faroe Islands,59°55.00’N,63°23.00’N,09°25.50’W,04°29.40’W,01/11,400000,62°00’N
+1040,GB,2182D,Norwegian Sea – Føroyar to Bergen,60°20.00’N,64°10.00’N,08°19.00’W,05°50.00’E,92/11,750000,58°30'N
+1041,GB,2182C,North Sea – Northern Sheet,57°05.00’N,61°14.32’N,03°50.00’W,08°46.32’W,92/13,750000,58°30'N
+1042,GB,2182B,North Sea – Central Sheet,53°33.50’N,58°06.90’N,03°21.00’W,09°15.10’E,73/11,750000,58°30'N
+1043,NL,1014,(Nordsee Südblatt) North Sea – Southern Sheet,50°50.00’N,55°40.00’N,02°10.00’W,10°10.00’E,73/13,750000,58°30'N
+1044,DK,93,Nordsøen Jyllands Vestkyst,54°59.96’N,57°11.96’N,02°59.92’E,09°09.92’E,83/10,375000,54°00’N
+1044PlanA,DK,93,Plan A - Hanstholm,57°07.00’N,57°07.67’N,08°35.28’E,08°36.27’E,83/10,12500,54°00’N
+1044PlanB,DK,93,Plan B - Hvide Sande,55°59.82’N,56°00.62’N,08°06.42’E,08°07.90’E,83/10,12500,56°00’N
+1045,DE,50,Nordsee Deutsche Bucht (Terschelling to Esbjerg),53°25.00’N,55°55.00’N,03°10.00’E,09°20.00’E,86/13,375000,54°00’N
+1046,NL,1035,Cap Gris Nez to Dogger Bight and Friesland Junction,50°50.00’N,54°15.00’N,01°10.00’E,04°53.00’E,88/08,375000,54°00'N
+1063,GB,2649,Western Approaches to the English Channel,48°20.00’N,51°33.52’N,13°27.65’W,04°52.00’W,88/03,500000,55°00'N
+1070,GB,2675,English Channel,48°00.00’N,51°14.80’N,06°43.70’W,01°52.00’E,91/03,500000,55°00'N
+1400,NO,306,Kristiansand-Utsira,57º05.00’N,59º20.00’N,02º20.00’E,08º10.00’E,12/,350000,58º12.5’N
+1401,NO,307,Stavanger-Florø,58º48.00’N,61º52.00’N,01º14.00’E,05º50.00’E,13/,350000,60º30’N
+1402,NO,308,Florø - Smøla,61°25.00’N,63°30.00’N,02°40.00’E,08°15.00’E,14/,350000,62°30’N
+1611,GB,1178,Approaches to the Bristol Channel,49°53.40’N,52°14.02’N,06°39.93’W,04°30.07’W,94/12,200000,58°00'N
+,,,,,,,,,,
+WESTERN ENGLISH CHANNEL,,,,,,,,,,
+1071,FR,7311,La Manche (Partie Ouest) – De Isle of Scilly et de l’Ile d’Ouessant aux Casquets,48°14.90’N,50°47.90’N,06°55.10’W,01°10.10’W,94/09,375000,50°00'N
+1700,GB,2565,"English Channel, Saint Agnes Head to Dodman Point including the Isles of Scilly",49°22.89’N,50°25.00’N,07°08.10’W,04°47.07’W,93/12,150000,51°00'N
+1701,GB,442,Lizard Point to Berry head,49°22.92’N,50°25.04’N,05°13.57’W,02°52.53’W,87/02,150000,51°00'N
+1702,GB,2454,Start Point to the Needles,49°42.81’N,50°44.50’N,03°53.00’W,01°32.00’W,88/08,150000,51°00'N
+1706,FR,6966,Des Héaux-de-Bréhat au Cap Levi,48º30.00’N,50º02.20’N,03º05.30’W,01º29.30’W,84/01,155000,49°15'N
+1707,FR,6930,Des Roches de Portsall au Plateau des Roches Douvres,48°29.90’N,49°33.10’N,04°50.10’W,02°29.10’W,85/09,150000,49°02'N
+1708,FR,6680,De l’Ile d’Ouessant à l’Ile de Batz,48°21.53’N,49°24.95’N,06°18.09’W,03°57.08’W,80/03,150000,48°53'N
+1719,GB,154,Approaches to Falmouth,49°54.53’N,50°13.04’N,05°12.66’W,04°54.25’W,85/13,35000,**
+1719PlanA,GB,154,Plan A – Nare head to Dodman Point,50°10.73’N,50°14.84’N,04°55.07’W,04°48.06’W,85/13,35000,**
+1720,GB,32,"England – South Coast, Falmouth to Truro",50°07.53’N,50°14.15’N,05°06.17’W,04°59.55’W,84/13,12500,**
+1720PlanA,GB,32,Plan A – Continuation of Truro River,50°13.98’N,50°15.85’N,05°03.57’W,05°00.36’W,84/13,12500,**
+1720PlanB,GB,32,Plan B – Continuation to Tresillian River,50°15.64’N,50°16.84’N,05°00.97’W,04°59.28’W,84/13,20000,**
+1720PlanC,GB,32,Plan C – Continuation of River Fal (Ruan Creek),50°13.21’N,50°14.60’N,04°59.98’W,04°57.06’W,84/13,20000,**
+1721,GB,31,Harbours on the South Coast of Cornwall,,,,,85/14,,
+1721PlanA,GB,31,Plan A – Charlestown Harbour,50°19.43’N,50°20.09’N,04°45.71’W,04°44.55’W,85/14,5000,**
+1721PlanB,GB,31,Plan B – Par Harbour,50°19.53’N,50°21.06’N,04°43.37’W,04°40.54’W,85/14,7500,**
+1721PlanC,GB,31,Plan C – Fowey Harbour,50°18.90’N,50°21.03’N,04°39.44’W,04°36.69’W,85/14,15000,**
+1721PlanD,GB,31,Plan D – River Fowey,50°20.64’N,50°23.11’N,04°39.52’W,04°36.97’W,85/14,15000,**
+1721PlanE,GB,31,Plan E – Continuation of the River Fowey,50°22.88’N,50°24.54’N,04°40.17’W,04°39.08’W,85/14,15000,**
+1722,GB,30,Plymouth Sound and Approaches,50°17.84’N,50°22.23’N,04°13.67’W,04°02.08’W,86/10,12500,**
+1722Cont,GB,30,Continuation of Hamoaze,50°22.03’N,50°24.74’N,04°12.77’W,04°10.76’W,86/10,12500,**
+1723,GB,2253,"England – South Coast, Darmouth Harbour",50°19.17’N,50°22.54’N,03°35.22’W,03°31.80’W,88/13,6250,**
+1723PlanA,GB,2253,"Plans A – River Dart, Continuation to Blackness Point",50°22.43’N,50°23.71’N,03°36.67’W,03°34.47’W,88/13,6250,**
+1723PlanB,GB,2253,"Plan B – River Dart, Blackness Point to Berry Rock",50°23.30’N,50°24.81’N,03°40.03’W,03°36.37’W,88/13,12500,**
+1723PlanC,GB,2253,"Plan C – River Dart, Continuation to Totnes",50°24.43’N,50°25.94’N,03°41.08’W,03°39.42’W,88/13,12500,**
+1724,GB,26,Harbours on the South Coast of Devon,,,,,86/12,12500,**
+1724PlanA,GB,26,Plan A – Tor Bay,50°22.78’N,50°27.98’N,03°34.08’W,03°27.42’W,86/12,12500,**
+1724PlanB,GB,26,Plan B – Brixham Harbour,50º23.671’N,50º24.40’N,03º31.32’W,03º29.93’W,86/12,7500,**
+1724PlanC,GB,26,Plan C – Teignmouth Harbour,50°32.05’N,50°32.86’N,03°30.67’W,03°28.68’W,86/12,7500,**
+1724PlanD,GB,26,Plan D – Torquay Harbour,50°27.37’N,50°27.80’N,03°31.88’W,03°31.42’W,86/12,4000,**
+1725,GB,2255,Approaches to Portland and Weymouth,50°28.31’N,50°39.11’N,02°29.42’W,02°18.42’W,87/10,20000,**
+1726,GB,2611,Poole Harbour and Approaches,50°39.09’N,50°43.49’N,02°04.79’W,01°54.38’W,87/13,12500,**
+1726PlanA,GB,2611,Plan A – Continuation of Holes Bay,50°43.02’N,50°44.33’N,02°00.74’W,01°59.01’W,87/13,12500,**
+1726PlanB,GB,2611,Plan B – Continuation to Wareham,50°40.73’N,50°41.69’N,02°06.79’W,02°04.48’W,87/13,12500,**
+1754,FR,7130,Approches de Saint Malo,48°36.82’N,48°42.89’N,02°11.64’W,01°58.21’W,91/02,15000,48°39’N
+1755,FR,7127,"Abords de l’île de Bréhat, Anse de Paimpol, Entrée du Trieux",48°42.78’N,48°54.64’N,03°05.68’W,02°53.48’W,91/07,20000,48°48’N
+1755PlanA,FR,7127,Plan A – Port de Lézardrieux – Le Trieux,48°46.74’N,48°48.39’N,03°06.58’W,03°04.95’W,91/07,10000,-0
+1755PlanB,FR,7127,Plan B – Port de Paimpol,48°46.69’N,48°47.50’N,03°03.02’W,03°01.31’W,91/07,10000,-0
+1756,FR,7095,Baie de Morlaix – De l’Ile de Batz à la Pointe de Primel,48°38.14’N,48°46.23’N,04°03.56’W,03°48.94’W,88/13,20000,48°42’N
+1756PlanA,FR,7095,Plan A – Ports de Roscoff,48°42.69’N,48°44.24’N,03°59.21’W,03°56.66 ‘W,88/13,10000,-0
+1756PlanB,FR,7095,Plan B – Rivière de Morlaix,48°34.64’N,48°38.94’N,03°52.20’W,03°49.89’W,88/13,15000,-0
+1757,FR,7094,Du Phare Du Four à l’Ile Vierge – Port de l’Aber-Wrac’h,48°30.69’N,48°40.78’N,04°51.91’W,04°29.59’W,88/07,25000,48°35’N
+1757PlanA,FR,7094,Plan A – Aber-Wrac’h,48°35.05’N,48°36.34’N,04°34.29’W,04°30.63’W,88/07,15000,-0
+,,,,,,,,,,
+EASTERN ENGLISH CHANNEL,,,,,,,,,,
+1072,FR,7312,La Manche (Partie Est) - Des Casquets au Pas de Calais,49°04.90’N,51°35.50’N,03°00.10’W,02°44.90’E,94/09,375000,50°00'
+1703,GB,2450,Anvil Point to Beachy Head,49°53.92’N,50°55.37’N,01°59.09’W,00°21.96’W,91/08,150000,51°00'N
+1704,FR,6824,La Manche - Du Cap D’Antifer au Cap Gris-Nez - De Newhaven à Dover,49°40.30’N,51°10.30’N,00°00.00’E,01°35.90’E,81/12,152000,50°25'N
+1705,FR,6857,Du Cap La Hague à Fécamp. Baie De Seine,49°10.70’N,50°12.90’N,01°57.50’W,00°23.50’E,96/12,150000,49°41'N
+1729,GB,2035,Western Approaches to the Solent,50°36.43’N,50°46.56’N,01°47.21’W,01°23.88’W,00/13,25000,**
+1730,GB,2036,The Solent and Southampton Water,50°42.91’N,50°53.04’N,01°27.37’W,01°03.99’W,00/13,25000,**
+1731,GB,2037,Eastern Approaches to the Solent,50°34.03’N,50°48.88’N,01°08.98’W,00°53.08’W,00/13,25000,**
+1732,GB,2631,Portsmouth Harbour,50°46.93’N,50°50.90’N,01°09.43’W,01°05.28’W,00/12,7500,**
+1732PlanA,GB,2631,Plan A – Continuation of Fareham Lake,50°50.16’N,50°51.01’N,01°10.78’W,01°09.07’W,00/12,7500,**
+1733,GB,2041,Port of Southampton,50°51.91’N,50°55.32’N,01°29.09’W,01°20.73’W,86/12,10000,**
+1734,GB,2044,Approaches to Shoreham,50º46.54’N,50º50.19’N,00º17.40’W,00º12.28’W,90/13,15000,**
+1734PlanA,GB,2044,Plan A - Shoreham Harbour - Western Arm and River Ador,50º49.34’N,50º50.17’N,00º17.23’W,00’14.64’W,90/13,5000,**
+1734PlanB,GB,2044,Plan B - Shoreham Harbour - Eastern Arm and The Canal,50º49.34’N,50º50.17’N,00º15.09’W,00º11.90’W,90/13,5000,**
+1735,GB,2154,Newhaven Harbour,50°46.29’N,50°47.99’N,00°02.58’E,00°04.55’E,98/13,5000,**
+1736,GB,1698,Dover,51°05.87’N,51°07.99’N,01°17.50’E,01°21.50’E,85/13,6250,**
+1740,GB,536,Beachy Head to Dungeness,50°32.63’N,50°58.78’N,00°02.26’E,01°05.06’E,88/11,75000,50°30'N
+1740PlanA,GB,536,Plan A – Sovereign Harbour,50°47.13’N,50°48.24’N,00°19.00’E,00°20.91’E,88/11,15000,DE
+1741,GB,1892,"Dover Strait, Western Part",50°41.58’N,51°11.64’N,00°50.12’E,01°59.89’E,91/11,75000,50°30'N
+1742,FR,7416,Abords Sud de Boulogne-sur-Mer du Tréport à Boulogne-sur-Mer,50°01.40’N,50°46.00’N,00°57.30’E,01°44.30’E,98/06,75000,50°30'N
+1743,FR,7247,Port de Boulogne-sur-Mer,50°41.75’N,50°47.68’N,01°30.75’E,01°37.12’E,91/11,10000,50°45'N
+1744,FR,7207,Ports de Fécamp et du Tréport,,,,,91/06,12500,-0
+1744PlanA,FR,7207,Plan A – Le Tréport,50°02.50’N,50°06.37’N,01°16.86’E,01°24.72’E,91/06,12500,-0
+1744PlanB,FR,7207,Plan B – Fécamp,49°44.20’N,49°47.65’N,00°15.81’E,00°23.62’E,91/06,12500,-0
+1745,FR,7317,Port De Dieppe,49°54.85’N,49°58.31’N,01°00.47’E,01°08.41’E,94/06,12500,49°56'N
+1750,FR,7418,Abords du Havre et d’Antifer – Embouchure de la Seine de Ouistreham au Cap d’Antifer,49°15.00’N,49°50.60’N,00°20.80’W,00°16.60’E,97/07,45000,49°34'N
+1751,FR,6683,Port du Havre – Entrée du Chenal de Rouen,49°25.14’N,49°31.21’N,00°00.74’W,00°12.92’E,77/06,15000,49°28'N
+1752,FR,7419,"Côte Nord de France, La Seine – Du Havre à Rouen",,,,,89/07,Various,49°27'N
+1752Part1,FR,7419,Part 1,49°25.05’N,49°30.85’N,00°08.58’W,00°13.02’E,89/07,30000,-0
+1752Part2,FR,7419,Part 2,49°24.80’N,49°29.95’N,00°10.00’E,00°30.00’E,89/07,60100,-0
+1752Part3,FR,7419,Part 3,49°19.60’N,49°31.65’N,00°26.82’E,01°04.92’E,89/07,60100,-0
+1752PlanA,FR,7419,Plan A – Port de Rouen,49°20.96’N,49°26.00’N,00°58.22’E,01°02.48’E,89/07,15000,-0
+1752PlanB,FR,7419,Plan B – Port de Rouen (Cont.),49°24.95’N,49°27.05’N,01°00.66’E,01°04.92’E,89/07,15000,-0
+1753,FR,7092,"De la Pointe de Nacqueville au Cap Levi , Rade de Cherbourg",49°37.35’N,49°45.44’N,01°45.08’W,01°26.79’W,88/09,20000,49°41'N
+1759,FR,7420,Ports en Baie-de Seine,,,,,99/06,17500,49°15'N
+1759PlanA,FR,7420,Plan A – Port de Grandcamp - Maisy,49°23.19’N,49°24.42’N,01°04.04’W,01°01.66’W,99/06,10000,-0
+1759PlanB,FR,7420,Plan B – Port de Port-en-Bessin,49°20.62’N,49°21.76’N,00°46.58’W,00°44.35’W,99/06,10000,-0
+1759PlanC,FR,7420,Plan C – Port de Courseulles-sur-Mer,49°19.81’N,49°21.34’N,00°28.50’W,00°26.65’W,99/06,10000,-0
+1759PlanD,FR,7420,Plan D – Rade de Caen – Port de Ouistreham,49°13.94’N,49°21.20’N,00°16.88’W,00°09.31’W,99/06,17500,-0
+1759PlanE,FR,7420,Plan E – Port de Caen,49°10.65’N,49°14.64’N,00°21.58’W,00°16.28’W,99/06,17500,-0
+1759PlanF,FR,7420,Plan F – Port de Dives-sur-Mer – Port Guillaume,49°17.48’N,49°18.90’N,00°06.48’W,00°05.03’W,99/06,10000,-0
+1759PlanG,FR,7420,Plan G - Port de Deauville – Trouville,49°21.46’N,49°22.87’N,00°03.32’E,00°05.45’E,99/06,10000,-0
+1759PlanH,FR,7420,Plan H – Port de Honfleur,49°24.95’N,49°26.15’N,00°12.80’E,00°15.18’E,99/06,10000,-0
+,,,,,,,,,,
+SOUTHEASTERN NORTH SEA,,,,,,,,,,
+1411,DK,94,Horns Rev (approaches to Esbjerg),54°55.00’N,55°41.00’N,06°47.00’E,08°45.00’E,03/13,130000,56°00'N
+1412,DE,103,Helgoland bis Rømø,53°58.00’N,55°13.00’N,07°24.00’E,09°02.00’E,84/12,150000,54°00'N
+1413,DE,87,Borkum bis Neuwerk und Helgoland,53°18.65’N,54°19.95’N,06°09.92’E,08°39.72’E,84/13,150000,54°00'N
+1416,NL/GB,1630,West Hinder and Outer Gabbard to Vlissingen and Scheveningen,51°22.20’N,52°21.70’N,01°58.00’E,04°19.00’E,05/10,150000,51°00'N
+1417,NL/GB,1633,Friesland Junction and GW/EMS to Vlieland and Borkum,53°12.00’N,54°13.00’N,04°12.00’E,06°42.90’E,05/10,150000,54°00’N
+1418,NL/GB,1631,DW Routes to Ijmuiden and Texel,52°16.70’N,53°15.00’N,02°33.00’E,04°54.00’E,05/10,150000,51°00’N
+1420,NL/GB,1632,DW Routes and Friesland Junction to Vlieland,53°10.00’N,54°11.10’N,02°32.00’E,05°02.90’E,05/11,150000,54°00'N
+1451,DK,95,(Denmark – West Coast) Grådyb,55°23.97’N,55°30.96’N,08°10.69’E,08°29.11’E,87/11,20000,56°00'N
+1451PlanA,DK,95,Plan A - Esbjerg Nord,55°27.86’N,55°28.78’N,08°24.42’E,08°26.33’E,87/11,12500,-0
+1451PlanB,DK,95,Plan B – Esbjerg Sud,55°26.99’N,55°27.90’N,08°25.72’E,08°28.13’E,87/11,12500,-0
+1452,DE,44,Elbmündung (The Elbe Scharhörn Riff to Medemgrund),53°45.00’N,54°05.00’N,08°06.40’E,08°56.30’E,85/13,50000,54°00'N
+1452PlanA,DE,44,Plan A - Cuxhaven,53°50.65’N,53°53.60’N,08°41.20’E,08°45.80’E,85/13,12500,-0
+1453,DE,46,Die Elbe von der Oste bis Brunsbuttel und Krautsand (The Elbe – Belum to Krautsand),53°44.50’N,53°56.00’N,08°55.80’E,09°25.70’E,84/13,30000,54°00'N
+1453PlanA,DE,46,Plan A - Die Oste von Geversdorf bis Osten,53°41.40’N,53°48.50’N,09°04.40’E,09°11.30’E,84/13,5000,53°45’N
+1453PlanB,DE,46,Plan B – Hafen und Schleusenanlagen von Brunsbüttel,53°52.50’N,53°55.20’N,09°04.70’E,09°12.40’E,84/13,15000,53°54’N
+1453PlanC,DE,46,Plan C - Hafen von Glückstadt,53°46.90’N,53°47.50’N,09°24.40’E,09°25.60’E,84/13,10000,53°47’N
+1453PlanD,DE,46,Plan D - Dornbusch,53°43.00’N,53°45.10’N,09°19.80’E,09°23.30’E,84/13,30000,54°00’N
+1453PlanE,DE,46,Plan E Part 1 –Die Stör von Wewelsfleth bis Itzehoe,53°50.05’N,53°54.95’N,09°23.90’E,09°27.40’E,84/13,30000,54°00’N
+1453PlanF,DE,46,Plan F – Part 2 - Die Stör von Hörn bis Itzehoe,53°54.75’N,53°56.15’N,09°25.20’E,09°31.70’E,84/13,30000,54°00’N
+1454,DE,47,Die Elbe von Krautsand bis Schulau,53°32.00’N,53°46.00’N,09°22.00’E,09°42.50’E,85/14,30000,54°00’N
+1454PlanA,DE,47,Plan A – Stadersand,53°36.30’N,53°40.00’N,09°30.30’E,09°34.20’E,85/14,15000,53°38’N
+1455,DE,48,Die Elbe von Schulau Bis Hambourg,,,,,89/11,Various,
+1455PartA,DE,48,Part A – Die Elbe von Schulau bis Teufelsbrück,53°31.10’N,53°35.20’N,09°38.90’E,09°52.40’E,89/11,30000,54°00’N
+1455PartB,DE,48,Part B - Hafen von Hamburg,53°27.75’N,53°33.25’N,09°49.10’E,10°02.40’E,89/11,15000,53°30’N
+1456,DE,2,Mündungen der Jade und Weser (Approaches to the Jade and Weser),53°40.75’N,54°00.40’N,07°41.00’E,08°30.90’E,86/13,50000,54°00’N
+1456PlanA,DE,2,Plan A - Dove Harle,53°46.10’N,53°47.50’N,07°49.15’E,07°52.35’E,86/13,25000,53°47’N
+1457,DE,4,Die Weser von Robbensordsteert bis Bremerhaven und Nordenham,53°28.80’N,53°43.00’N,08°18.30’E,08°35.60’E,00/12,25000,54°00’N
+1457PlanA,DE,4,Plan A – Hafen von Bremerhaven,53°31.50’N,53°34.90’N,08°32.80’N,08°35.70’E,00/12,12500,53°33’N
+1457PlanB,DE,4,Plan B – Continuation of Hafen von Bremerhaven,53°29.70’N,53°31.70’N,08°34.30’E,08°35.50’E,00/12,12500,53°33’N
+1458,DE,5,Die Weser von Nordenham bis Farge Part 1,53°19.60’N,53°30.00’N,08.26.00’E,08°32.50’E,07/09,25000,54°00’N
+1458,DE,5,Die Weser von Nordenham bis Farge Part 2,53°10.90.N,53°21.34’N,08°22.00’E,08°32.50’E,07/09,25000,54°00’N
+1458PlanA,DE,5,Plan A - Hafen von Brake,53°19.50’N,53°20.35.’N,08°28.80’E,08°29.80’E,07/09,10000,53°20’N
+1458PlanB,DE,5,Plan B - Hafen von Elsfleth,53°13.50’N,53°14.90’N,08°27.40’E,08°28.40’E,07/09,10000,53°10‘N
+1458PlanC1,DE,5,Plan C1 - Die Hunte von Huntebrück bis Oldenburg,53°09.00’N,53°12.20’N,08°19.20’E,08°27.20’E,07/09,50000,53°10’N
+1458PlanC2,DE,5,Plan C2 - Die Hunte von Huntebrück bis Oldenburg,53°07.00’N,53°10.00’N,08°12.00’E,08°20.00’E,07/09,50000,53°10‘N
+1458PlanD,DE,5,Plan D – Hafen von Oldenburg,53°08.25.N,53°08.70’N,08°13.10’E,08°15.30’E,07/09,20000,53°08’N
+1458PlanE,DE,5,Plan E – Huntemündung,53°14.70’N,53°15.75’N,08°28.15’E,08°29.25’E,07/09,10000,53°15’N
+1459,DE,6,Die Weser von Farge bis Bremen,,,,,07/14,25000,54°00’N
+1459PlanA,DE,6,Plan A - Farge bis Osterort,53°06.60’N,53°12.50’N,08°26.00’E,08°43.00’E,07/14,25000,54°00‘N
+1459PlanB,DE,6,Plan B - Vegesacker Kurve,53°09.50’N,53°10.80’N,08°34.20’E,08°39.00’E,07/14,12500,53°10’N
+1459PlanC,DE,6,Plan C – Hafen von Bremen,53°04.50’N,53°08.20’N,08°39.20’E,08°47.53’E,07/14,12500,57°07’N
+1459PlanD,DE,6,Plan D - Stephanibrûcke bis Hemelingen,53°01.90’N,53°05.00’N,08°47.20’E,08°53.20’E,07/14,25000,54°00’N
+1460,DE,7,"Die Jade, Innerer Teil – (The Jade Inner Part)",53°23.30’N,53°43.80’N,07°56.90’E,08°21.00’E,89/14,35000,54°00’N
+1460PlanA,DE,7,Plan A - Wilhelmshaven,53°30.40’N,53°32.70’N,08°06.85’E,08°10.35’E,89/14,15000,53º32’N
+1461,DE,90,Emsmündung – ( Entrance to the EMS),53°23.55’N,53°43.95’N,06°14.00’E,07°03.90’E,86/14,50000,54°00’N
+1461PlanA,DE,90,Plan A - Fischerbalje und Hafen von Borkum,53°32.96’N,53°33.96’N,06°42.40’E,06°45.82’E,86/14,15000,53°34’N
+1461PlanB,DE,90,Plan B - Eemshaven,53°26.46’N,53°27.86’N,06°48.42’E,06°51.12’E,86/14,20000,53°27’N
+1462,DE,91,Die Ems von Dukegat bis Pogum,53°17.85’N,53°28.15’N,06°51.45’E,07°16.42’E,93/13,25000,54°00’N
+1462PlanA,DE,91,Plans : A – Hafenanlagen von Emden,53°19.56’N,53°22.21’N,07°10.22’E,07°13.72’E,93/13,12500,53°21’N
+1462PlanB,DE,91,Plan B – Dollard (Dollart),53°13.76’N,53°20.46’N,07°03.92’E,07°14.42’E,93/13,50000,53°17’N
+1463,DE,49,"Approaches to Elbe, Weser and Jade",53°40.00’N,54°15.00’N,07°24.00’E,09°03.00’E,08/12,100000,54°00’N
+1465,NL/GB,207,Hoek Van Holland to Vlaardingen Nieuwe Waterweg and Europoort (part A),51º53.50’N,52º01.60’N,03º57.00’E,04º16.20’E,10/13,20000,52º00’N
+1465,NL/GB,207,Continuation Nieuwe Waterweg (part B),51º51.50’N,51º54.80’N,04º13.10’E,04º20.50’E,10/13,20000,52º00’N
+1466,NL/GB,208,Rotterdam – Niewe Maas and Oude Maas,51º47.60’N,51º55.70’N,04º19.00’E,04º38.20’E,10/,20000,52º00’N
+1467PartA,NL/GB,209,Krimpen A/D lek to Moerdijk (part A – Krimpen A/D lek to Dordrecht),51º46.50’N,51º54.60’N,04º36.20’E,04º45.60’E,10/,20000,52º00’N
+1467PartB,NL/GB,209,Part B – Dordrecht to Moederdijk,51º40.50’N,51º48.60’N,04º30.10’E,04º39.50’E,10/,,
+1468,NL/GB,126,Approaches to Den Helder,52°37.00’N,53°12.50’N,04°11.40’E,04°51.50’E,03/13,60000,52°55’N
+1469,NL/GB,125,Approaches to Scheveningen and Ijmuiden,52°05.00’N,52°40.50’N,03°58.90’E,04°38.50’E,03/13,60000,52°25’N
+1469PlanA,NL/GB,125,Plan A – Ijmuiden,52°27.30’N,52°28.60’N,04°31.80’E,04°36.60’E,03/13,20000,52°25’N
+1469PlanB,NL/GB,125,Plan B - Scheveningen,52°05.60’N,52°06.50’N,04°14.70’E,04°16.40’E,03/13,15000,52°25’N
+1470,NL/GB,1546,Zeegat Van Texel and Den Helder Roads,52°51.95’N,53°04.05’N,04°26.72’E,04°56.12’E,01/11,30000,52°58’N
+1470PlanA,NL/GB,1546,Plan A - Den Helder,52°56.55’N,52°58.05’N,04°45.92’E,04°48.32’E,01/11,15000,
+1471PartA,NL/GB,124,"Part A - Noordzee Kanaal including Ijmuiden, Zaandam and Amsterdam",52°25.23’N,52°28.72’N,04°30.22’E,04°43.19’E,82/10,15000,52°25’N
+1471PartB,NL/GB,124,Part B – Continuation of Noordzeekanaal,52°21.95’N,52°26.65’N,04°41.92’E,04°59.22’E,82/10,20000,52°25’N
+1472,NL/GB,122,Approaches to Europoort and Hoek Van Holland,51°51.25’N,52°15.49’N,03°18.84’E,04°16.50’E,83/13,60000,52°00’N
+1473,NL/GB,110,Westkapelle to Stellendam and Maasvlakte,51°32.14’N,52°02.45’N,02°56.93’E,04°08.64’E,85/13,75000,51°45’N
+1473PlanA,NL/GB,110,Plan A – Noordland Roompotsluis,51°35.95’N,51°37.75’N,03°37.92’E,03°42.12’E,85/13,40000,51°45’N
+1473PlanB,NL/GB,110,Plan B – Slijkgat to Stellendam,51°48.75’N,51°52.55’N,03°50.62’E,04°04.32’E,85/13,50000,51°45’N
+1474,BE,101,"Belgische Nederlandse Kust, Monding van de Westerschelde van Oostende tot Westkapelle",51°12.95’N,51°37.15’N,02°40.52’E,03°37.32’E,85/12,60000,51°20’N
+1474PlanA,BE,101,Plan A – Vlissingen,51°25.75’N,51°27.55’N,03°33.82’E,03°36.52’E,85/12,25000,51°20’N
+1474PlanB,BE,101,Plan B – Zeebrugge,51°19.55’N,51°21.90’N,03°09.92’E,03°13.72’E,85/12,20000,51°20’N
+1474PlanC,BE,101,Plan C - Brugge,51°13.30’N,51°14.25’N,03°12.77’E,03°13.67’E,85/12,15000,51°20’N
+1478PartA,BE,106,Part A – Baalhoek tot Antwerpen,51°13.67’N,51°25.60’N,04°05.70’E,04°20.70’E,98/11,30000,51°20’N
+1478PartB,BE,106,Part B – Antwerpen tot Hoboken,51°10.67’N,51°14.63’N,04°19.26’E,04°24.33’E,98/11,15000,51°20’N
+1478PartC,BE,106,Part C – Hoboken tot Wintam,51°07.02’N,51°11.02’N,04°17.66’E,04°20.45’E,98/11,10000,51°20’N
+1479,NL/ GB,120,"Westerschelde, Vlissingen to Baalhoek and Gent- Terneuzen Canal",51°19.44’N,51°33.45’N,03°29.91’E,04°07.72’E,97/11,40000,51°20’N
+1479PlanA,NL/ GB,120,Plan A - Breskens,51°23.50’N,51°24.20’N,03°33.42’E,03°34.82’E,97/11,20000,51°20’N
+1479PlanB,NL/ GB,120,Plan B - Braakmanhaven,51°19.90’N,51°21.35’N,03°45.16’E,03°46.82’E,97/11,25000,51°20’N
+1479PlanC,NL/ GB,120,Plan C – Terneuzen Anchorage,51°20.10’N,51°21.05’N,03°49.42’E,03°53.22’E,97/11,20000,51°20’N
+1479PlanD,NL/ GB,120,Plan D - Continuation to Gent,51°03.14’N,51°20.64’N,03°43.11’E,03°51.21’E,97/11,40000,51°20’N
+1479PlanE,NL/ GB,120,Plan E – Gent,51°04.35’N,51°07.15’N,03°43.22’E,03°45.72’E,97/11,25000,51°20’N
+1479PlanF,NL/ GB,120,Plan F – Approaches to Terneuzen,51°19.30’N,51°21.05’N,03°48.01’E,03°50.22’E,97/11,25000,51°20’N
+1479PlanG,NL/ GB,120,Plan G – Vlissingen Oost (Sloehaven),51°26.45’N,51°28.75’N,03°39.22’E,03°43.42’E,97/11,25000,51°20’N
+1479PlanH,NL/ GB,120,Plan H – Terneuzen,51°17.85’N,51°19.40’N,03°48.97’E,03°50.67’E,97/11,25000,51°20’N
+1479PlanI,NL/ GB,120,Plan I – Vlissingen,51°25.75’N,51°27.55’N,03°33.82’E,03°36.52’E,97/11,25000,51°20’N
+,,,,,,,,,,
+CENTRAL EASTERN NORTH SEA,,,,,,,,,,
+1300,DK,92,Skagerrak,57°05.00’N,59°10.00’N,06°10.00’E,12°00.00’E,96/13,360000,58°00’N
+1300PlanA,DK,92,Plan A - Hirtshals,57°35.42’N,57°36.47’N,09°56.92’E,09°59.12’E,96/13,12500,58°00’N
+1300PlanB,DK,92,Plan B – Oslofjorden,59°07.00’N,59°55.30’N,10°11.50’E,11°12.50’E,96/13,360000,58°00’N
+1300PlanC,DK,92,Plan C – Hanstholm,57°07.00’E,57°07.67’N,08°35.29’E,08°36.27’E,96/13,12500,58°00’N
+1310,SE,932,Gullholmen – Stenungsund – Marstrand,57°53.26’N,58°11.89’N,11°10.87’E,12°03.83’E,08/11,50000,57°40’N
+1310PlanA,SE,932,Plan A – Gullholmen – Hälleviksstrand,58°07.13’N,58°11.56’N,11°23.21’E,11°26.88’E,08/11,25000,-0
+1310PlanB,SE,932,Plan B – Vinterholmen – Galterön,58°01.07’N,58°06.79’N,11°45.61’E,11°49.25’E,08/11,25000,-0
+1310PlanC,SE,932,Plan C – Stenungsund,58°04.24’N,58°06.47’N,11°47.61’E,11°49.39’E,08/11,12500,-0
+1311,SE,933,Hunnebostrand – Uddevalla – Gullholmen,58°10.07’N,58°28.49’N,11°03.94’E,11°57.36’E,08/12,50000,57°40’N
+1311PlanA,SE,933,Plan A – Malö strömmar,58°11.25’N,58°12.73’N,11°27.93’E,11°30.74’E,08/12,25000,-0
+1311PlanB,SE,933,Plan B – Smögen-Kungshamn,58°20.71’N,58°22.18’N,11°11.75’E,11°15.80’E,08/12,25000,-0
+1311PlanC,SE,933,Plan C – Lysekil,58°15.87’N,58°16.69’N,11°25.81’E,11°27.95’E,08/12,15000,-0
+1311PlanD,SE,933,Plan D – Uddevalla,58°19.35’N,58°21.28’N,11°50.16’E,11°55.79’E,08/12,15000,-0
+1311PlanE,SE,933,Plan E – Strömmarna,58°14.21’N,58°14.51’N,11°31.32’E,11°32.15’E,08/12,10000,-0
+1312,SE,934,Syd-Koster – Hunnebrostrand,58°24.97’N,58°52.59’N,10°49.75’E,11°24.86’E,08/12,50000,57°40’N
+1312PlanA,SE,934,Plan A – Hamburgsund,58°30.64’N,58°33.98’N,11°14.95’E,11°17.10’E,08/12,25000,-0
+1312PlanB,SE,934,Plan B – Havstenssund,58°44.34’N,58°45.84’N,11°10.01’E,11°11.56’E,08/12,20000,-0
+1313,SE,937,Idefjorden – Strömstad,58°49.50’N,59°07.67’N,10°46.80’E,11°40.47’E,08/12,50000,57°40’N
+1313PlanA,SE,937,Plan A – Strömstad,58°55.48’N,58°57.00’N,11°06.00’E,11°10.50’E,08/12,10000,-0
+1314,SE,9331,Brofjorden approach,58°10.04’N,58°24.23’N,11°09.17’E,11°27.22’E,08/11,25000,58°20’N
+1448,DK,108,Limfjorden Thyborøn-Mors,56°27.50’N,56°57.95’N,08°08.45’E,08°47.40’E,87/10,65000,56°00’N
+1448PlanA,DK,108,Plan A – Thyborøn Kanal,56°37.70’N,56°43.96’N,08°10.22’E,08°17.00’E,87/10,40000,56°00’N
+1448PlanB,DK,108,Plan B – Thyborøn,56°41.56’N,56°42.41’N,08°12.92’E,08°13.72’E,87/10,8000,56°00’N
+1448PlanC,DK,108,Plan C – Thyborøn Sydhavn,56°40.68’N,56°41.34’N,08°13.31.E,08°14.26’E,87/10,8000,56°00’N
+1448PlanD,DK,108,Plan D – Vilsundbroens Passage Span,56°52.97’N,56°53.13’N,08°37.67’E,08°38.15’E,87/10,6000,56°00’N
+1448PlanE,DK,108,Plan E - Venø Sund Snaevring,56°30.57’N,56°31.32’N,08°36.42’E,08°37.67’E,87/10,20000,56°00’N
+1448PlanF,DK,108,Plan F – Lemvig,56°32.92’N,56°33.30’N,08°18.12’E,08°18.64’E,87/10,8000,56°00’N
+1448PlanG,DK,108,Plan G - Holstebro-Struer,56°29.50’N,56°29.83’N,08°35.09’E,08°36.32’E,87/10,7000,56°00’N
+1448PlanH,DK,108,Plan H – Oddesundbroens Passage Span,,,,,87/10,,
+1449,DK,109,Limfjorden Mors – Løgstør,56°31.47’N,57°02.17’N,08°40.92’E,09°20.42’E,87/09,65000,56°00’N
+1449PlanA,DK,109,Plan A - Nykøbing Mors,56°46.97’N,56°47.76’N,08°51.72’E,08°52.82’E,87/09,9000,56°00’N
+1449PlanB,DK,109,Plan B – Passage Span,56°44.81’N,56°45.07’N,08°50.72’E,08°51.18’E,87/09,8000,56°00’N
+1449PlanC,DK,109,Plan C – Virksund,56°36.27’N,56°36.61’N,09°17.02’E,09°18.02’E,87/09,9000,56°00’N
+1450PartA,DK,105,Part A - Limfjorden Aalborg-Løgstor,56°57.20’N,53°03.95’N,09°08.90’E,09°36.00’E,04/07,30000,56°00’N
+1450PartB,DK,105,Part B - Limfjorden Aalborg-Løgstor,56°58.37’N,57°05.00’N,09°32.92’E,09°56.00’E,04/07,30000,56°00’N
+1450PlanA,DK,105,Plan A - Løgstor,56°57.99’N,56°58.30’N,09°14.56’E,09°15.74’E,04/07,7000,56°00’N
+,,,,,,,,,,
+SOUTHWESTERN NORTH SEA,,,,,,,,,,
+1480,BE,102,"Frans – Belgische Kust, Van Duinkerke tot Oostende",51°02.95’N,51°27.25’N,02°04.92’E,03°01.72’E,87/12,60000,51°20’N
+1480PlanA,BE,102,Plan A – Oostende,51°13.37’N,51°14.62’N,02°54.72’E,02°56.52’E,87/12,15000,51°20’N
+1480PlanB,BE,102,Plan B – Nieuwport,51°08.00’N,51°09.45’N,02°42.82’E,02°45.52’E,87/12,20000,51°20’N
+1481,FR,6651,De Calais à Dunkerque,50°56.45’N,51°13.95’N,01°44.22’E,02°24.92’E,88/07,43100,51°05’N
+1482,FR,7057,Port De Dunkerque,50°58.95’N,51°07.05’N,02°05.12’E,02°23.92’E,87/06,20000,51°03’N
+1483,FR,7258,Abords de Calais,50°55.25’N,51°01.32’N,01°40.92’E,01°55.07’E,97/06,15000,50°58’N
+1483PlanA,FR,7258,Plan A – Port de Calais,50°57.25’N,50°58.35’N,01°50.22’E,01°52.27’E,97/06,7500,50°58’N
+1505,GB,1407,Montrose to Berwick-Upon-Tweed,56°38.00’N,56°50.33’N,03°30.00’W,00°11.22’W,95/09,200000,58°00’N
+1506,GB,1192,Saint Abb’s Head to the River Tyne,54°46.07’N,56°00.00’N,02°18.11’W,01°00.74’E,88/10,200000,58°00’N
+1507,GB,1191,River Tyne to Flamborough Head,53°57.60’N,55°13.01’N,01°40.11’W,01°38.75’E,86/12,200000,58°00’N
+1508,GB,1190,East Coast Flamborough Head to Blakeney Point,52°45.01’N,54°07.52’N,00°13.95’W,01°09.39’E,85/10,150000,51°00’N
+1509,GB,1503,Outer Dowsing to Smiths Knoll,52°49.02’N,53°38.26’N,00°47.89’E,03°08.93’E,84/13,150000,51°00’N
+1510,GB,1504,Cromer to Orford Ness,52°04.92’N,52°55.73’N,01°09.89’E,03°28.38’E,83/13,150000,51°00’N
+1511,GB,1610,Approaches to the Thames Estuary,50°52.03’N,52°19.86’N,00°58.49’E,02°21.84’E,94/12,150000,51°00'N
+1512,FR,6735,Pas de Calais – De Boulogne sur Mer à Zeebrugge – Estuaire de la Tamise (Thames),50°40.95’N,51°41.35’N,00°54.92’E,03°15.92’E,84/12,150000,51°11'N
+1543,GB,1481,River Tay,56°24.30’N,56°32.80’N,03°03.00’W,02°36.27’W,89/12,25000,**
+1543PlanA,GB,1481,Plan A - Dundee Docks,56°26.69’N,56°28.31’N,02°58.55’W,02°54.58’W,89/12,12500,**
+1543PlanB,GB,1481,Plan B – Continuation of River Tay to Perth,56°20.23’N,56°27.49’N,03°26.09’W,02°58.58’W,89/12,100000,**
+1544,GB,734,"Firth of Forth, Isle of May to Inchkeith",55°56.39’N,56°13.65’N,03°16.89’W,02°27.91’W,93/13,50000,**
+1544PlanA,GB,734,Plan A – Kirkcaldy,56º06.50’N,56º07.25’N,03º09.50’W,03º08.31’W,93/13,10000,**
+1545,GB,735,"Firth of Forth, Approaches to Leith and Burntisland",55°56.50’N,56°05.26’N,03°17.40’W,02°58.55’W,89/11,25000,**
+1545PlanA,GB,735,Plan A - Leith,55°58.30’N,56°00.65’N,03°12.15’W,03°09.24’W,89/11,10000,**
+1546,GB,736,"Firth of Forth, Granton and Burntisland to Rosyth",55°58.64’N,56°03.90’N,03°28.39’W,03°12.52’W,86/12,15000,**
+1547,GB,737,"River Forth, Rosyth to Kincardine",55°58.39’N,56°04.50’N,03°44.19’W,03°27.00’W,95/10,17500,**
+1547PlanA,GB,737,Plan A - Crombie Jetty,56°01.72’N,56°02.58’N,03°33.22’W,03°30.58’W,95/10,7500,**
+1548,GB,733,"Firth of Forth, Burntisland to Dalgety Bay",56°01.10’N,56°03.80’N,03°20.30’W,03°13.20’W,02/10,7500,**
+1549,GB,152,River Tyne to River Tees,54º30.00’N,55º08.84’N,01º33.34’W,00º50.10’W,09/12,75000,54º00’N
+1550,GB,1934,River Tyne,54°58.90’N,55°01.45’N,01°29.99’W,01°23.10’W,86/13,7500,**
+1550PlanA,GB,1934,Part A - Willington Quay to Saint Anthony’s Point,54°57.40’N,54°59.51’N,01°33.35’W,01°29.34’W,86/13,12500,**
+1550PlanB,GB,1934,Part B - Saint Anthony’s Point to Dunston,54°57.37’N,54°58.38’N,01°39.15’W,01°32.85’W,86/13,12500,**
+1551,GB,1627,Harbours on the East Coast of England,90/08,Various,**,,,,
+1551PlanA,GB,1627,Plan A – Sunderland,54°52.81’N,54°56.21’N,01°23.02’W,01°18.11’W,90/08,10000,**
+1551PlanB,GB,1627,Plan B – Warkworth Harbour,55°18.30’N,55°21.61’N,01°37.00’W,01°30.69’W,90/08,15000,**
+1551PlanC,GB,1627,Plan C – Cont. of River Wear,54°54.27’N,54°55.41’N,01°25.09’W,01°22.95’W,90/08,10000,**
+1551PlanD,GB,1627,Plan D - Seaham,54°49.34’N,54°50.77’N,01°20.50’W,01°18.09’W,90/08,12500,**
+1552,GB,2566,"England – East Coast, Tees and Hartlepool Bays",,,,,85/12,20000,**
+1552PartA,GB,2566,Part A – Tees Bay,54°35.28’N,54°42.19’N,01°13.35’W,01°05.17’W,85/12,20000,**
+1552PartB,GB,2566,Part B – Continuation of River Tees,54°33.46’N,54°36.40’N,01°18.80’W,01°08.70’W,85/12,20000,**
+1552PlanC,GB,2566,Plan C – Hartlepool Bay,54°40.31’N,54°42.23’N,01°12.80’W,01°09.25’W,85/12,10000,**
+1553,GB,1188,River Humber – Spurn Head to Immingham,53°31.46’N,53°39.96’N,00°13.19’W,00°08.98’E,84/13,25000,**
+1553PlanA,GB,1188,Plan A - Grimsby,53°34.04’N,53°35.35’N,00°05.62’W,00°03.25’W,84/13,10000,**
+1554,GB,3497,"River Humber, Immingham to Humber Bridge and the Rivers Ouse and Trent",53°36.81’N,53°45.32’N,00°27.66’W,00°04.53’W,83/13,25000,**
+1554PlanA,GB,3497,Plan A – Humber Bridge to Whitton Ness,53°40.36’N,53°44.20’N,00°37.15’W,00°26.70’W,83/13,50000,**
+1554PlanB,GB,3497,Plan B – Whitton Ness to Goole and Keadby,53°35.01’N,53°44.05’N,00°52.30’W,00°35.80’W,83/13,50000,**
+1554PlanC,GB,3497,Plan C – Keadby to Gainsborough,53°24.16’N,53°35.17’N,00°50.05’W,00°40.09’W,83/13,100000,**
+1554PlanD,GB,3497,Plan D – Goole,53°41.71’N,53°42.23’N,00°52.91’W,00°51.72’W,83/13,5000,**
+1556,GB,1200,The Wash Ports,52°47.27’N,53°00.43’N,00°02.61’W,00°31.42’E,85/12,37500,**
+1556PlanA,GB,1200,Plan A – Boston,52°57.90’N,52°58.40’N,00°01.70’W,00°00.40’W,85/12,10000,**
+1556PlanB,GB,1200,Plan B – Approaches to Boston,52°55.70’N,52°57.25’N,00°04.12’E,00°08.42’E,85/12,20000,**
+1556PlanC,GB,1200,Plan C – Continuation to River Nene,52°42.00’N,52°47.97’N,00°09.18’E,00°12.79’E,85/12,50000,**
+1556PlanD,GB,1200,Plan D – Continuation of the River Nene to Wisbech,52°39.78’N,52°42.51’N,00°08.65’E,00°12.03’E,85/12,50000,**
+1556PlanE,GB,1200,Plan E – Lynn Cutt (continued),52°45.46’N,52°47.6’N,00°21.09’E,00°23.90’E,85/12,37500,**
+1556PlanF,GB,1200,Plan F – King’s Lynn,52°44.65’N,52°45.87’N,00°23.00’E,00°23.94’E,85/12,10000,**
+1558,GB,1534,Great Yarmouth and Approaches,52°30.75’N,52°44.23’N,01°38.79’E,01°53.60’E,08/13,25000,**
+1558PlanA,GB,1534,Plan A – Great Yarmouth Outer Harbour,52°34.25’N,52°35.03’N,01°43.68’E,01°45.04’E,08/13,7500,**
+1558PlanB,GB,1534,Plan B – Great Yarmouth Haven,52°34.59’N,52°36.44’N,01°43.29’E,01°44.16’E,08/13,7500,**
+1559,GB,1535,Lowestoft and Approaches,52°23.51’N,52°35.00’N,01°40.67’E,01°55.00’E,08/13,25000,**
+1559PlanA,GB,1535,Plan A – Lowestoft Harbour,52°28.24’N,52°28.70’N,01°42.51’E,01°46.10’E,08/13,6250,**
+1560,GB,2052,Orford Ness to the Naze,51°48.53’N,52.06.00’N,01°16.84’E,02°04.69’E,84/13,50000,**
+1561,GB,1183,Thames Estuary,51°21.60’N,51°56.67’N,00°32.80’E,02°01.26’E,83/13,100000,51°40'N
+1562,GB,1607,"Thames Estuary, Southern Part",51°19.43’N,51°36.96’N,00°51.79’E,01°35.70’E,87/13,50000,**
+1563,GB,1828,Dover to North Foreland,51°05.23’N,51°27.48’N,01°17.89’E,01°38.45’E,87/13,37500,**
+1563PlanA,GB,1828,Plan A – Ramsgate,51°19.42’N,51°20.03’N,01°24.42’E,01°25.52’E,87/13,5000,**
+1564,GB,323,Dover Strait – Eastern Part,50°55.00’N,51°24.95’N,01°17.12’E,02°26.90’E,99/13,75000,**
+1565,GB,3496,"River Humber, Immingham and Hull",,,,,11/13,,-0
+1565PlanA,GB,3496,"Plan A - Hull Docks, Eastern Part",53°43.18’N,53°44.91’N,00°19.80’W,00°13.89’W,11/13,10000,**
+1565PlanB,GB,3496,"Plan B - Hull Docks, Western Part",53°43.75’N,53°44.51’N,00°21.84’W,00°19.48’W,11/13,10000,**
+1565PlanC,GB,3496,Plan C - Immingham Oil Terminal to Humber Sea Terminal,53°37.05’N,53°40.55’N,00°14.89’W,00°09.00’W,11/13,10000,**
+1566,GB,104,Approaches to the Humber Traffic Separation Scheme,53°27.35’N,53°40.50’N,00º02.65’E,00º37.20’E,12/13,37500,**
+1570,GB,2693,"Approaches to Felixstove, Harwich and Ipswich with the Rivers Stour, Orwell and Deben",51°54.72’N,52°03.23’N,01°07.49’E,01°31.48’E,83/12,25000,**
+1570PlanA,GB,2693,Plan A – Continuation of River Stour,51°56.27’N,51°57.63’N,01°03.89’E,01°07.95’E,83/12,25000,**
+1570PlanB,GB,2693,Plan B – Ipswich,52°01.88’N,52°03.22’N,01°08.99’E,01°10.09’E,83/12,10000,**
+1570PlanC,GB,2693,Plan C – Continuation of River Deben,52°03.12’N,52°05.73’N,01°18.49’E,01°20.80’E,83/12,25000,**
+1571,GB,3741,Rivers Colne and Blackwater,51°41.03’N,51°49.80’N,00°41.99’E,01°05.86’E,94/11,25000,**
+1571PlanA,GB,3741,Plan A – Brightling sea,51°47.33’N,51°48.62’N,00°59.69’E,01°02.25’E,94/11,12500,**
+1571PlanB,GB,3741,Plan B – Continuation of River Colne,51°49.67’N,51°52.44’N,00°55.96’E,01°01.45’E,94/11,12500,**
+1571PlanC,GB,3741,Plan C – Colchester Quays,51°52.28’N,51°53.11’N,00°55.43’E,00°56.51’E,94/11,12500,**
+1571PlanD,GB,3741,Plan D – Bradwell,51°43.79’N,51°44.79’N,00°52.59’E,00°53.70’E,94/11,12500,**
+1571PlanE,GB,3741,Plan E – West Mersea,51°46.28’N,51°46.94’N,00°53.20’E,00°54.31’E,94/11,12500,**
+1571PlanF,GB,3741,Plan F – Tollesbury Yacht Harbour,51°45.38’N,51°45.99’N,00°50.79’E,00°51.93’E,94/11,12500,**
+1571PlanG,GB,3741,Plan G - Maldon,51°43.29’N,51°44.54’N,00°40.69’E,00°43.25’E,94/11,12500,**
+1572,GB,1185,"River Thames, Sea Reach",51°24.83’N,51°33.67’N,00°32.19’E,00°54’.41’E,87/13,25000,**
+1573,GB,2482,River Medway and The Swale - Part 1,51°17.47’N,51°26.24’N,00°25.24’E,00°46.32’E,88/12,25000,**
+1573Cont,GB,2482,Cont. of the Swale,51°18.97’N,51°23.49’N,00°43. 89’E,00°58.96’E,88/12,25000,**
+1573PlanA,GB,2482,Plan A - Ferry Reach,51°22.93’N,51°23.74’N,00°44.72’E,00°46.10’E,88/12,12500,**
+1573PlanB,GB,2482,Plan B – Continuation to Rochester,51°22.98’N,51°23.89’N,00°29.96’E,00°31.14’E,88/12,12500,**
+1573PlanC,GB,2482,Plan C – Continuations to Maidstone,51°16.23’N,51°17.86’N,00°29.70’E,00°31.64’E,88/12,25000,**
+1574,GB,2484,Hole Haven to London Bridge,,,,,85/13,,**
+1574PlanA,GB,2484,Plan A – Hole Haven to Purfleet,51°26.23’N,51°31.34’N,00°12.60’E,00°33.74’E,85/13,25000,**
+1574PlanB,GB,2484,Plan B – Purfleet to London Bridge,51°28.13’N,51°31.37’N,00°05.40’E,00°15.76’E,85/13,25000,**
+1574PlanC,GB,2484,Plan C – Cont. of Hole Haven Creek,51°30.68’N,51°32.94’N,00°30.05’E,00°33.41’E,85/13,25000,**
+1574PlanD,GB,2484,Plan D - Thames Tidal Barrier,51°29.58’N,51°30.11’N,00°01.62’E,00°02.82’E,85/13,5000,**
+1580,GB,1491,Harwich and Felixstowe,51°54.77’N,51°58.23’N,01°12.89’E,01°21.44’E,83/10,10000,**
+,,,,,,,,,,
+CENTRAL WESTERN BRITISH ISLES,,,,,,,,,,
+1062,GB,1121,"British Isles, Irish Sea with Saint George’s Channel and North Channel",51°09.00’N,55°43.10’N,07°32.00’W,02°31.90’W,87/00,500000,55°00’N
+1064,GB,1125,Western Approaches to Ireland,51°22.00’N,54°26.15’N,16°00.00’W,08°20.69’W,85/,500000,55°00’N
+1065,GB,1127,Outer Approaches to the North Channel,54°13.30’N,57°03.00’N,15°10.00’W,06°30.00’W,93/07,500000,55°00’N
+1604,GB,2722,Skerryvore to Saint Kilda,56°02.00’N,57°50.68’N,09°09.95’W,07°00.00’W,06/11,200000,58°00’N
+1605,GB,2723,Western Approaches to the North Channel,54°55.99’N,56°09.63’N,09°25.92’W,06°07.07’W,90/05,200000,58°00’N
+1606,GB,2724,North Channel to the Firth of Lorn,54°34.99’N,56°27.80’N,06°40.96’W,04°31.07’W,06/,200000,58°00’N
+1607,GB,1826,Irish Sea – Eastern Part,53º07.01’N,55º03.88’N,04º55.97’W,02º46.08’W,92/13,200000,58°00’N
+1608,GB,1411,Irish Sea – Western Part,52º44.01’N,54º56.02’N,06º25.07’W,04º15.18’W,84/00,200000,58°00’N
+1609,GB,1410,St. George’s Channel,51º40.48’N,53º00.00’N,07º10.07’W,03º51.20’W,92/02,200000,58°00’N
+1610,GB,1179,Bristol Channel,50°58.02’N,51°49.36’N,05°00.08’W,02°39.06’W,84/12,150000,51°00’N
+1612,GB,2049,Old Head of Kinsale to Tuskar Rock,51°20.00’N,52°14.04’N,08°32.45’W,06°05.00’W,95/12,150000,53°00'N
+1613,GB,2424,Kenmare River to Cork Harbour,51º05.00’N,51º58.52’N,10º22.47’W,07º55.00’W,95/10,150000,53°00'N
+1616,GB,2173,Loop Head to Slyne Head,52º32.00’N,53º24.61’N,11º05.35’W,08º54.04’W,84/,150000,53°00’N
+1617,GB,2420,Aran Islands to Broad Haven Bay,53°06.70’N,54°26.10’N,10°57.20’W,09°31.40’W,84/,150000,53°00'N
+1627,GB,1796,Barra Head to Point of Ardnamurchan,56°29.48’N,57°04.64’N,07°51.13’W,06°13.06’W,88/09,100000,57°30’N
+1634,GB,1907,Firth of Clyde Little Cumbrae Island to Cloch Point,55°42.20’N,55°56.80’N,05°06.00’W,04°50.80’W,83/03,25000,**
+1634PlanA,GB,1907,"Plan A – Loch Striven, Nato Fuel Jetty",55°53.20’N,55°54.02’N,05°04.26’W,05°02.76’W,83/03,10000,**
+1635,GB,3746,Loch Long and Loch Goil,55°56.29’N,56°10.58’N,04°57.98’W,04°42.85’W,95/13,25000,**
+1635PlanA,GB,3746,Plan A – Upper Loch Long,56°06.77’N,56°13.00’N,04°50.78’W,04°44.30’W,95/13,25000,**
+1635PlanB,GB,3746,Plan B – Approaches to Finnart,56°04.99’N,56°07.50’N,04°52.68’W,04°49.43’W,95/13,12500,**
+1636,GB,1994,Approaches to the River Clyde,55°56.33’N,56°00.59’N,04°57.65’W,04°41.93’W,91/13,15000,**
+1636PlanA,GB,1994,Plan A - Greenock - Great Harbour,55°56.30’N,55°56.87’N,04°43.75’W,04°42.37’W,91/13,5000,**
+1637,GB,2007,River Clyde,55°55.33’N,56°00.59’N,04°43.08’W,04°28.67’W,95/10,15000,**
+1637ContB,GB,2007,Continuation B,55°53.19’N,55°55.97’N,04°29.58’W,04°23.47’W,95/10,,**
+1637ContC,GB,2007,Continuation C,55°51.89’N,55°53.59’N,04°24.28’W,04°19.07’W,95/10,,**
+1637ContD,GB,2007,Continuation D,55°51.17’N,55°52.17’N,04°19.98’W,04°14.77’W,95/10,,**
+1640,GB,2010,Morecambe Bay and Approaches,53°48.66’N,54°06.38’N,03°31.58’W,02°46.94’W,88/13,50000,**
+1641,GB,1552,Ports in Morecambe Bay,,,,,86/08,Various,**
+1641PlanA,GB,1552,Plan A – River Luné and approaches to Heysham,53°57.67’N,54°03.40’N,03°03.49’W,02°46.82’W,86/08,25000,**
+1641PlanB,GB,1552,Plan B – Approaches to Fleetwood,53°51.04’N,53°59.82’N,03°04.09’W,02°57.69’W,86/08,25000,**
+1641PlanC,GB,1552,Plan C – Fleetwood,53°54.76’N,53°56.10’N,03°01.09’W,02°59.51’W,86/08,10000,**
+1641PlanD,GB,1552,Plan D - Heysham,54°01.14’N,54°02.49’N,02°56.89’W,02°54.50’W,86/08,110000,**
+1641PlanE,GB,1552,Plan E - Glasson,53°58.84’N,54°00.30’N,02°53.23’N,02°50.08’W,86/08,12500,**
+1642,GB,1951,Approaches to Liverpool,53°26.21’N,53°34.85’N,03°22.21’W,03°00.08’W,83/13,25000,**
+1643,GB,3490,Port of Liverpool,,,,,86/12,,
+1643PlanA,GB,3490,Plan A -,53°22.31’N,53°28.22’N,03°04.09’W,02°58.68’W,86/12,15000,**
+1643PlanB,GB,3490,Plan B -,53°19.06’N,53°24.34’N,03°00.89’W,02°51.82’W,86/12,15000,**
+1644,GB,3478,Manchester Ship Canal and Upper Mersey,53°22.21’N,53°29.21’N,02°37.64’W,02°15.55’W,93/01,25000,**
+1644,GB,3478,Continuation to Eastham Locks,53°16.21’N,53°22.70’N,02°57.35’W,02°35.47’W,93/01,25000,**
+1644PlanA,GB,3478,Plan A – Ellesmere Port and Stanlow Oil Docks,53°17.09’N,53°17.61’N,02°53.99’W,02°50.18’W,93/01,10000,**
+1644PlanB,GB,3478,Plan B – Runcorn and Weston Point Docks,53°19.43’N,53°20.62’N,02°45.89’W,02°44.48’W,93/01,10000,**
+1644PlanC,GB,3478,Plan C – Partington Basin,53°25.41’N,53°25.82’N,02°25.81’W,02°25.04’W,93/01,10000,**
+1644PlanD,GB,3478,Plan D – Manchester Docks,53°27.79’N,53°28.62’N,02°18.59’W,02°15.58’W,93/01,10000,**
+1649,GB,3273,Entrance to Milford Haven,51°36.15’N,51°42.90’N,05°13.65’W,05°06.38’W,01/13,12500,**
+1650,GB,3274,"Milfor Haven, Saint Ann’s Head to Newton Noyes Pier",51°39.67’N,51°43.93’N,05°11.17’W,05°00.10’W,87/13,12500,**
+1651,GB,3275,Milford Haven,51°40.27’N,51°44.53’N,05°02.37’W,04°51.74’W,88/13,12500,**
+1651PlanA,GB,3275,Plan A - Pembroke Reach,51°41.69’N,51°42.33’N,04°58.14’W,04°56.44’W,88/13,5000,**
+1651PlanB,GB,3275,Plan B – Continuation of River Cleddau,51°44.22’N,51°46.13’N,04°55.07’W,04°52.86’W,88/13,12500,**
+1651PlanC,GB,3275,Plan C – Continuation of River Cleddau,51°45.52’N,51°48.43’N,04°58.47’W,04°48.27’W,88/13,50000,**
+1651PlanD,GB,3275,Plan D - Carew River,51°41.38’N,51°44.03’N,04°53.37’W,04°49.06’W,88/13,50000,**
+1652,GB,1161,Swansea Bay,51°29.39’N,51°38.03’N,04°03.08’W,03°41.04’W,94/01,25000,**
+1652PlanA,GB,1161,Plan A – River Neath,51°37.02’N,51°39.19’N,03°51.08’W,03°49.23’W,94/01,12500,**
+1653,GB,1182,Barry and Cardiff Roads with Approaches,51°19.92’N,51°29.24N,03°18.58’W,03°05.02’W,86/12,25000,**
+1653PlanA,GB,1182,Plan A - Barry Docks,51°22.48’N,51°24.37’N,03°17.53’W,03°14.07’W,86/12,12500,**
+1653PlanB,GB,1182,Plan B - Cardiff Docks,51°25.97’N,51°28.23’N,03°11.96’W,03°08.09’W,86/12,15000,**
+1654,GB,1176,Severn Estuary Steep Holm to Avonmouth,51°20.02’N,51°33.62’N,03°12.88’W,02°39.13’W,83/13,40000,**
+1654PlanA,GB,1176,Plan A - Newport,51°31.42’N,51°35.48’N,03°00.08’W,02°57.52’W,83/13,20000,**
+1655,GB,1859,Port of Bristol,,,,,84/13,,**
+1655PlanA,GB,1859,Plan A – King Road,51°29.16’N,51°31.83’N,02°47.13’W,02°41.43’W,84/13,10000,**
+1655PlanB,GB,1859,Plan B – River Avon,51°26.87’N,51°29.53’N,02°42.78’W,02°37.08’W,84/13,10000,**
+1655PlanC,GB,1859,Plan C - City Docks,51°26.70’N,51°27.24’N,02°37.63’W,02°35.43’W,84/13,5000,**
+1655PlanD,GB,1859,Plan D – City Docks to Saint Anne’s Bridge,51°26.22’N,51°27.73’N,02°35.64’W,02°32.78’W,84/13,25000,**
+1658,GB,2510,Approaches to Londonderry,,,,,05/,Various,
+1658PlanA,GB,2510,"Plan A – Moville to Lisahally terminal, Northern Part",55°06.30’N,55°11.56’N,07°12.86’W,07°00.53’W,05/,15000,**
+1658PlanB,GB,2510,"Plan B – Moville to Lisahally Terminal, Southern Part",55°01.90’N,55°07.16’N,07°16.50’W,07°11.03’W,05/,15000,**
+1658PlanC,GB,2510,Plan C – Lisahally Terminal,55°02.10’N,55°03.20’N,07°16.50’W,07°14.32’W,05/,7500,**
+1658PlanD,GB,2510,Plan D – Lisahally Terminal to Londonderry,54°59.30’N,55°03.00’N,07°19.45’W,07°15.07’W,05/,15000,**
+1659,GB,2511,Approaches to Lough Foyle,55°08.30’N,55°17.06’N,07°08.80’W,06°42.92’W,05/13,25000,**
+1659PlanA,GB,2511,Plan A - Lough Foyle,55°02.30’N,55°12.30’N,07°15.90’W,06°56.13’W,05/13,50000,**
+1661,GB,1753,Belfast Lough and approaches,54°35.50’N,54°48.65’N,06°00.97’W,05°25.45’W,86/12,37500,**
+1661PlanA,GB,1753,Plan A – Donaghadee Sound,54°38.26’N,54°40.49’N,05°34.60’W,05°30.06’W,86/12,15000,**
+1661PlanB,GB,1753,Plan B - Bangor Bay,54°39.60’N,54°41.14’N,05°41.12’W,05°37.76’W,86/12,17500,**
+1662,GB,1431,Drogheda and Dundalk,,,,,88/11,Various,**
+1662PlanA,GB,1431,Plan A – Approaches to the River Boyne,53°40.42’N,53°48.40’N,06°17.11’W,06°07.00’W,88/11,20000,**
+1662PlanB,GB,1431,Plan B – River Boyne to Drogheda,53°42.75’N,53°44.00’N,06°21.00’W,06°13.50’W,88/11,30000,**
+1662PlanC,GB,1431,Plan C – Dundalk and approaches,53°56.50’N,54°01.00’N,06°24.10’W,06°13.94’W,88/11,7500,**
+1663,GB,1415,Dublin Bay,53°15.83’N,53°24.60’N,06°16.00’W,05°54.00’W,88/12,25000,**
+1663PlanA,GB,1415,Plan A - Howth,53°23.19’N,53°23.85’N,06°04.50’W,06°03.45’W,88/12,7500,**
+1664,GB,1752,"Northern Ireland – East Coast, Approaches to Belfast",54°38.33’N,54°43.59’N,05°58.39’W,05°44.17’W,04/12,15000,**
+1664PlanA,GB,1752,Plan A – Belfast Docks,54°35.90’N,54°39.10’N,05°55.30’W,05°50.83’W,04/12,12500,**
+1670,GB,1777,"Port of Cork, Lower Harbour and approaches",51°44.83’N,51°51.58’N,08°20.45’W,08.13.60’W,93/05,12500,**
+1671,GB,1773,"Port of Cork, Upper Harbour",,,,,93/05,,
+1671PartA,GB,1773,Part A – Upper Harbour West,51°50.02’N,52°54.41’N,08°29.65’W,08°18.98’W,93/05,12500,**
+1671PartB,GB,1773,Part B – Upper Harbour East,51°50.02’N,51°53.49’N,08°16.05’W,08°10.61’W,93/05,12500,**
+,,,,,,,,,,
+SCOTLAND AND ADJACENT ISLANDS,,,,,,,,,,
+1060,GB,219,Western Approaches to the Orkney and Shetland Islands,58°28.60’N,61°00.00’N,08°41.80’W,00°06.10’W,90/12,500000,55°00'N
+1061,GB,2635,"Scotland, West Coast",55°00.00’N,59°09.90’N,09°16.10’W,04°16.00’W,83/11,500000,55°00'N
+1500,GB,1233,Northern Approaches to the Shetland Islands,60°05.96’N,61°09.76’N,02°48.99’W,00°29.87’E,84/12,200000,58°00'N
+1501,GB,1119,Orkney and Shetland Islands Fair Isle Channel,59°18.64’N,60°24.98’N,03°13.33’W,00°29.87’E,84/12,200000,58°00'N
+1502,GB,1942,Fair Isle to Wick,58°26.47’N,59°33.48’N,03°13.33’W,00°29.87’E,88/13,200000,58°00'N
+1503,GB,115,"Scotland-East Coast, Moray Firth",57°33.98’N,58°42.67’N,04°24.10’W,01°05.21’W,93/13,200000,58°00'N
+1504,GB,1409,Buckie to Arbroath,56°24.98’N,58°12.58’N,03°02.10’W,00°52.22’W,93/13,200000,58°00'N
+1530,GB,3298,Yell Sound,60º26.11’N,60º43.89’N,01º12.12’W,01º00.87’W,86/12,30000,**
+1531,GB,3297,Sullom Voe,60º23.26’N,60º30.27’N,01º23.12’W,01º14.54’W,87/00,12500,**
+1532,GB,2581,Southern approaches to Scapa Flow,58°38.06’N,58°53.48’N,03°10.70’W,02°53.23’W,87/10,26000,**
+1540,GB,1889,Cromarty Firth Cromarty Bank to Invergordon,57°38.93’N,57°44.03’N,04°10.89’W,03°56.11’W,90/10,15000,**
+1540PlanA,GB,1889,Plan A - Invergordon,57°40.80’N,57°41.40’N,04°10.80’W,04°09.40’W,90/10,5000,**
+1542,GB,1446,Aberdeen Harbour,57°07.72’N,57°09.59’N,02°05.85’W,02°01.16’W,94/10,7500,**
+1542PlanA,GB,1446,Plan A – Approaches to Aberdeen,57°07.48’N,57°11.60’N,02°05.85’W,01°56.48’W,94/10,15000,**
+1600,GB,1234,North Western Approaches to the Orkney Islands,59°18.63’N,60°24.97’N,05°18.88’W,02°00.00’W,84/11,200000,58°00'N
+1601,GB,1954,Cape Wrath to Pentland Firth including the Orkney Islands,58°25.97’N,59°32.99’N,05°33.96’W,02°15.10’W,88/11,200000,58°00'N
+1602,GB,2720,Flannan Isles to Sule Skerry,58°11.70’N,59°20.22’N,08°06.29’W,04°23.09’W,83/11,200000,58°00'N
+1603,GB,2721,Saint Kilda to Butt of Lewis,57°30.62’N,58°40.48’N,09°26.96’W,06°08.08’W,83/11,200000,58°00'N
+1625,GB,1794,"North Minch, Southern Part",57°41.42’N,58°15.98’N,06°46.64’W,05°03.57’W,83/13,100000,57°30'N
+1626,GB,1795,"The Little Minch, Southern Part",56°53.39’N,57°45.10’N,07°24.56’W,06°17.50’W,83/11,100000,57°30'N
+1630,GB,1757,"The Little Minch, Northern Part",57°22.60’N,58°16.00’N,07°04.26’W,05°57.20’W,07/13,100000,57°30'N
+,,,,,,,,,,
+ICELAND,,,,,,,,,,
+1100,IS,61,"North east Coast, Raudinúpur to Glettinganes",65°30.00’N,67°10.00’N,16°40.00’W,10°33.00’W,94/09,300000,65°00'N
+1101,IS,71,Glettinganes – Stokksnes,63°50.00’N,65°35.00’N,15°05.00’W,09°00.00’W,07/,300000,65°00'N
+1102,IS,81,Stokksnes to Dyrhólaey,62°30.00’N,64°20.00’N,19°15.00’W,13°10.00’W,04/,300000,65°00'N
+1103,IS,31,Dyrhólaey Snæfellsnes,63°02.00’N,64°52.00’N,25°16.00’W,19°08.00’W,98/08,300000,65°00'N
+1104,IS,41,Vestfir?ir,64°42.00’N,67°11.00’N,26°28.00’W,22°20.00’W,08/,300000,65°00'N
+1105,IS,51,"North Coast of Iceland, Horn - Raudinúpur",65°32.00’N,67°12.00’N,22°33.00’W,16°25.00’W,01/10,300000,65°00'N
+1105PlanA,IS,51,Plan A – Continuation of Húnaflói,65°08.00’N,65°40.00’N,21°30.00’W,20°52.00’W,01/10,300000,65°00'N
+1110,IS,57,Eyjafjördur,65°40.00’N,66°29.00’N,19°23.00’W,18°00.00’W,98/03,100000,65°00'N
+1111,IS,73,Glettinganes Hla?a,64°40.50’N,65°31.00’N,14°16.00’W,12°54.50’W,95/07,100000,65°00'N
+1112,IS,36,Selvogur – Hjörsey (Approaches to Reykjavík),63°39.00’N,64°32.00’N,22°59.00’W,21°36.00’W,97/09,100000,65°00'N
+1113,IS,362,Reykjavík,64°07.91’N,64°11.59’N,22°00.25’W,21°48.00’W,01/13,10000,65°00'N
+1114,IS,46,Ísafjardardjúp,65°46.00’N,66°35.00’N,23°43.00’W,22°20.00’W,03/10,100000,65°00'N
+1118,IS,530,Akureyri,65°40.00’N,65°43.00’N,18°08.00’W,18°02.00’W,98/07,10000,65°00'N
