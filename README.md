@@ -10,3 +10,5 @@ Upon the first discussion, this would be something like:
 * published scale
 * National number (prefixed by country code?)
 * National name
+
+More details at http://wiki.openseamap.org/wiki/OpenSeaMap-dev:Catalogue_of_INT_Charts
