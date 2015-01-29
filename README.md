@@ -11,4 +11,4 @@ Upon the first discussion, this would be something like:
 * National number (prefixed by country code?)
 * National name
 
-More details on the related wiki page: [Catalogue_of_INT_Charts](http://wiki.openseamap.org/wiki/OpenSeaMap-dev:Catalogue_of_INT_Charts)
+More details on the related wiki page: [Catalogue of INT Charts](http://wiki.openseamap.org/wiki/OpenSeaMap-dev:Catalogue_of_INT_Charts)
