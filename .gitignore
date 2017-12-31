@@ -1,2 +1,10 @@
-osmcb-catalog-AHTest003.xml
-osmcb-catalog-AHTest004.xml
+*.7z
+*.zip
+*.png
+osmcb-catalog-AHTest*.xml
+osmcb-catalog-Test*.xml
+Metadaten.xml
+Archiv/
+catalog-example.xml
+osmcb-catalog-AH-STD.xml
+
