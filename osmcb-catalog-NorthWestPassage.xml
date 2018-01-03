@@ -3231,7 +3231,7 @@
     </Layer>
     <Layer name="L08" zoomLvl="8">
         <Map name="L8-48-0-40-24" mapSource="AH OpenSeaMap - Mapnik" ulc="74.01954331, -180.00000000" lrc="48.92249926, -146.25000000" minTileCoordinate="48/0" maxTileCoordinate="87/23" number="8-48-0-40-24"/>
-        <Map name="L8-40-32-24-48" mapSource="AH OpenSeaMap - Mapnik" ulc="76.84081641, -135.00000000" lrc="66.51326044, -67.50000000" minTileCoordinate="40/32" maxTileCoordinate="63/79" number="8-40-32-24-48"/>
         <Map name="L8-64-64-32-32" mapSource="AH OpenSeaMap - Mapnik" ulc="66.51326044, -90.00000000" lrc="40.97989807, -45.00000000" minTileCoordinate="64/64" maxTileCoordinate="95/95" number="8-64-64-32-32"/>
+        <Map name="L8-40-24-24-56" mapSource="AH OpenSeaMap - Mapnik" ulc="76.84081641, -146.25000000" lrc="66.51326044, -67.50000000" minTileCoordinate="40/24" maxTileCoordinate="63/79" number="8-40-24-24-56"/>
     </Layer>
 </catalog>

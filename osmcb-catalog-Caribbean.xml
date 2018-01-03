@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalog name="Caribbean" size="11" version="2">
+<catalog name="Caribbean" size="9" version="2">
     <Layer name="L16" zoomLvl="16">
         <Map name="L16-30072-21648-24-16" mapSource="AH OpenSeaMap - Mapnik" ulc="14.64736838, -61.08398438" lrc="14.51978005, -60.99609375" minTileCoordinate="30072/21648" maxTileCoordinate="30095/21663" number="16-30072-21648-24-16"/>
         <Map name="L16-30240-21664-8-16" mapSource="AH OpenSeaMap - Mapnik" ulc="13.75272466, -60.99609375" lrc="13.71003534, -60.90820313" minTileCoordinate="30240/21664" maxTileCoordinate="30247/21679" number="16-30240-21664-8-16"/>
@@ -2460,11 +2460,5 @@
     </Layer>
     <Layer name="L08" zoomLvl="8">
         <Map name="L8-104-48-24-48" mapSource="AH OpenSeaMap - Mapnik" ulc="31.95216224, -112.50000000" lrc="0.00000000, -45.00000000" minTileCoordinate="104/48" maxTileCoordinate="127/95" number="8-104-48-24-48"/>
-    </Layer>
-    <Layer name="L07" zoomLvl="7">
-        <Map name="L7-48-24-16-24" mapSource="AH OpenSeaMap - Mapnik" ulc="40.97989807, -112.50000000" lrc="0.00000000, -45.00000000" minTileCoordinate="48/24" maxTileCoordinate="63/47" number="7-48-24-16-24"/>
-    </Layer>
-    <Layer name="L06" zoomLvl="6">
-        <Map name="L6-24-8-8-16" mapSource="AH OpenSeaMap - Mapnik" ulc="40.97989807, -135.00000000" lrc="0.00000000, -45.00000000" minTileCoordinate="24/8" maxTileCoordinate="31/23" number="6-24-8-8-16"/>
     </Layer>
 </catalog>

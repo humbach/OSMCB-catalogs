@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalog name="MediWest" size="10" version="2">
+<catalog name="MediWest" size="9" version="2">
     <Layer name="L13" zoomLvl="13">
         <Map name="L13-2960-4288-8-24" mapSource="AH OpenSeaMap - Mapnik" ulc="44.59046718, 8.43750000" lrc="44.33956525, 9.49218750" minTileCoordinate="2960/4288" maxTileCoordinate="2967/4311" number="13-2960-4288-8-24"/>
         <Map name="L13-2968-4280-8-16" mapSource="AH OpenSeaMap - Mapnik" ulc="44.33956525, 8.08593750" lrc="44.08758503, 8.78906250" minTileCoordinate="2968/4280" maxTileCoordinate="2975/4295" number="13-2968-4280-8-16"/>
@@ -255,15 +255,11 @@
     <Layer name="L10" zoomLvl="10">
         <Map name="L10-368-520-8-24" mapSource="AH OpenSeaMap - Mapnik" ulc="45.08903556, 2.81250000" lrc="43.06888777, 11.25000000" minTileCoordinate="368/520" maxTileCoordinate="375/543" number="10-368-520-8-24"/>
         <Map name="L10-376-512-8-40" mapSource="AH OpenSeaMap - Mapnik" ulc="43.06888777, 0.00000000" lrc="40.97989807, 14.06250000" minTileCoordinate="376/512" maxTileCoordinate="383/551" number="10-376-512-8-40"/>
-        <Map name="L10-384-504-16-24" mapSource="AH OpenSeaMap - Mapnik" ulc="40.97989807, -2.81250000" lrc="36.59788913, 5.62500000" minTileCoordinate="384/504" maxTileCoordinate="399/527" number="10-384-504-16-24"/>
-        <Map name="L10-384-528-8-32" mapSource="AH OpenSeaMap - Mapnik" ulc="40.97989807, 5.62500000" lrc="38.82259098, 16.87500000" minTileCoordinate="384/528" maxTileCoordinate="391/559" number="10-384-528-8-32"/>
-        <Map name="L10-384-552-24-8" mapSource="AH OpenSeaMap - Mapnik" ulc="40.97989807, 14.06250000" lrc="34.30714386, 16.87500000" minTileCoordinate="384/552" maxTileCoordinate="407/559" number="10-384-552-24-8"/>
-        <Map name="L10-392-480-16-8" mapSource="AH OpenSeaMap - Mapnik" ulc="38.82259098, -11.25000000" lrc="34.30714386, -8.43750000" minTileCoordinate="392/480" maxTileCoordinate="407/487" number="10-392-480-16-8"/>
-        <Map name="L10-392-488-16-16" mapSource="AH OpenSeaMap - Mapnik" ulc="38.82259098, -8.43750000" lrc="34.30714386, -2.81250000" minTileCoordinate="392/488" maxTileCoordinate="407/503" number="10-392-488-16-16"/>
-        <Map name="L10-392-512-8-48" mapSource="AH OpenSeaMap - Mapnik" ulc="38.82259098, 0.00000000" lrc="36.59788913, 16.87500000" minTileCoordinate="392/512" maxTileCoordinate="399/559" number="10-392-512-8-48"/>
-        <Map name="L10-392-536-16-16" mapSource="AH OpenSeaMap - Mapnik" ulc="38.82259098, 8.43750000" lrc="34.30714386, 14.06250000" minTileCoordinate="392/536" maxTileCoordinate="407/551" number="10-392-536-16-16"/>
         <Map name="L10-400-496-8-24" mapSource="AH OpenSeaMap - Mapnik" ulc="36.59788913, -5.62500000" lrc="34.30714386, 2.81250000" minTileCoordinate="400/496" maxTileCoordinate="407/519" number="10-400-496-8-24"/>
         <Map name="L10-408-488-8-8" mapSource="AH OpenSeaMap - Mapnik" ulc="34.30714386, -8.43750000" lrc="31.95216224, -5.62500000" minTileCoordinate="408/488" maxTileCoordinate="415/495" number="10-408-488-8-8"/>
+        <Map name="L10-392-480-16-24" mapSource="AH OpenSeaMap - Mapnik" ulc="38.82259098, -11.25000000" lrc="34.30714386, -2.81250000" minTileCoordinate="392/480" maxTileCoordinate="407/503" number="10-392-480-16-24"/>
+        <Map name="L10-384-504-16-56" mapSource="AH OpenSeaMap - Mapnik" ulc="40.97989807, -2.81250000" lrc="36.59788913, 16.87500000" minTileCoordinate="384/504" maxTileCoordinate="399/559" number="10-384-504-16-56"/>
+        <Map name="L10-392-536-16-24" mapSource="AH OpenSeaMap - Mapnik" ulc="38.82259098, 8.43750000" lrc="34.30714386, 16.87500000" minTileCoordinate="392/536" maxTileCoordinate="407/559" number="10-392-536-16-24"/>
     </Layer>
     <Layer name="L09" zoomLvl="9">
         <Map name="L9-184-256-8-24" mapSource="AH OpenSeaMap - Mapnik" ulc="45.08903556, 0.00000000" lrc="40.97989807, 16.87500000" minTileCoordinate="184/256" maxTileCoordinate="191/279" number="9-184-256-8-24"/>
@@ -2190,9 +2186,5 @@
     </Layer>
     <Layer name="L08" zoomLvl="8">
         <Map name="L8-88-120-16-24" mapSource="AH OpenSeaMap - Mapnik" ulc="48.92249926, -11.25000000" lrc="31.95216224, 22.50000000" minTileCoordinate="88/120" maxTileCoordinate="103/143" number="8-88-120-16-24"/>
-    </Layer>
-    <Layer name="L07" zoomLvl="7">
-        <Map name="L7-40-64-8-8" mapSource="AH OpenSeaMap - Mapnik" ulc="55.77657302, 0.00000000" lrc="40.97989807, 22.50000000" minTileCoordinate="40/64" maxTileCoordinate="47/71" number="7-40-64-8-8"/>
-        <Map name="L7-48-56-8-16" mapSource="AH OpenSeaMap - Mapnik" ulc="40.97989807, -22.50000000" lrc="21.94304553, 22.50000000" minTileCoordinate="48/56" maxTileCoordinate="55/71" number="7-48-56-8-16"/>
     </Layer>
 </catalog>

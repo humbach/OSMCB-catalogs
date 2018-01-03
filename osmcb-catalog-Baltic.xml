@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalog name="Baltic" size="10" version="2">
+<catalog name="Baltic" size="9" version="2">
     <Layer name="L16" zoomLvl="16">
         <Map name="L16-21048-34744-8-8" mapSource="AH OpenSeaMap - Mapnik" ulc="53.98193516, 10.85449219" lrc="53.95608553, 10.89843750" minTileCoordinate="21048/34744" maxTileCoordinate="21055/34751" number="16-21048-34744-8-8"/>
         <Map name="L16-21040-34728-8-8" mapSource="AH OpenSeaMap - Mapnik" ulc="54.00776876, 10.76660156" lrc="53.98193516, 10.81054688" minTileCoordinate="21040/34728" maxTileCoordinate="21047/34735" number="16-21040-34728-8-8"/>
@@ -2984,9 +2984,5 @@
     </Layer>
     <Layer name="L08" zoomLvl="8">
         <Map name="L8-64-128-24-24" mapSource="AH OpenSeaMap - Mapnik" ulc="66.51326044, 0.00000000" lrc="48.92249926, 33.75000000" minTileCoordinate="64/128" maxTileCoordinate="87/151" number="8-64-128-24-24"/>
-    </Layer>
-    <Layer name="L07" zoomLvl="7">
-        <Map name="L7-32-64-16-8" mapSource="AH OpenSeaMap - Mapnik" ulc="66.51326044, 0.00000000" lrc="40.97989807, 22.50000000" minTileCoordinate="32/64" maxTileCoordinate="47/71" number="7-32-64-16-8"/>
-        <Map name="L7-32-64-8-16" mapSource="AH OpenSeaMap - Mapnik" ulc="66.51326044, 0.00000000" lrc="55.77657302, 45.00000000" minTileCoordinate="32/64" maxTileCoordinate="39/79" number="7-32-64-8-16"/>
     </Layer>
 </catalog>

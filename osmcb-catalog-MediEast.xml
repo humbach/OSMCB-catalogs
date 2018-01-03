@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalog name="MediEast" size="10" version="2">
+<catalog name="MediEast" size="9" version="2">
     <Layer name="L16" zoomLvl="16">
         <Map name="L16-23376-35240-8-8" mapSource="AH OpenSeaMap - Mapnik" ulc="45.76752296, 13.57910156" lrc="45.73685955, 13.62304688" minTileCoordinate="23376/35240" maxTileCoordinate="23383/35247" number="16-23376-35240-8-8"/>
         <Map name="L16-23392-35160-16-8" mapSource="AH OpenSeaMap - Mapnik" ulc="45.70617929, 13.13964844" lrc="45.64476822, 13.18359375" minTileCoordinate="23392/35160" maxTileCoordinate="23407/35167" number="16-23392-35160-16-8"/>
@@ -2958,9 +2958,5 @@
     </Layer>
     <Layer name="L08" zoomLvl="8">
         <Map name="L8-88-128-24-32" mapSource="AH OpenSeaMap - Mapnik" ulc="48.92249926, 0.00000000" lrc="21.94304553, 45.00000000" minTileCoordinate="88/128" maxTileCoordinate="111/159" number="8-88-128-24-32"/>
-    </Layer>
-    <Layer name="L07" zoomLvl="7">
-        <Map name="L7-40-64-16-8" mapSource="AH OpenSeaMap - Mapnik" ulc="55.77657302, 0.00000000" lrc="21.94304553, 22.50000000" minTileCoordinate="40/64" maxTileCoordinate="55/71" number="7-40-64-16-8"/>
-        <Map name="L7-48-72-8-8" mapSource="AH OpenSeaMap - Mapnik" ulc="40.97989807, 22.50000000" lrc="21.94304553, 45.00000000" minTileCoordinate="48/72" maxTileCoordinate="55/79" number="7-48-72-8-8"/>
     </Layer>
 </catalog>

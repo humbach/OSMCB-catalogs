@@ -1335,16 +1335,17 @@
     </Layer>
     <Layer name="L08" zoomLvl="8">
         <Map name="L8-104-112-8-16" mapSource="AH OpenSeaMap - Mapnik" ulc="31.95216224, -22.50000000" lrc="21.94304553, 0.00000000" minTileCoordinate="104/112" maxTileCoordinate="111/127" number="8-104-112-8-16"/>
-        <Map name="L8-112-80-8-8" mapSource="AH OpenSeaMap - Mapnik" ulc="21.94304553, -67.50000000" lrc="11.17840187, -56.25000000" minTileCoordinate="112/80" maxTileCoordinate="119/87" number="8-112-80-8-8"/>
         <Map name="L8-96-104-8-24" mapSource="AH OpenSeaMap - Mapnik" ulc="40.97989807, -33.75000000" lrc="31.95216224, 0.00000000" minTileCoordinate="96/104" maxTileCoordinate="103/127" number="8-96-104-8-24"/>
-        <Map name="L8-88-120-24-8" mapSource="AH OpenSeaMap - Mapnik" ulc="48.92249926, -11.25000000" lrc="21.94304553, 0.00000000" minTileCoordinate="88/120" maxTileCoordinate="111/127" number="8-88-120-24-8"/>
         <Map name="L8-112-104-8-16" mapSource="AH OpenSeaMap - Mapnik" ulc="21.94304553, -33.75000000" lrc="11.17840187, -11.25000000" minTileCoordinate="112/104" maxTileCoordinate="119/119" number="8-112-104-8-16"/>
-        <Map name="L8-96-72-8-8" mapSource="AH OpenSeaMap - Mapnik" ulc="40.97989807, -78.75000000" lrc="31.95216224, -67.50000000" minTileCoordinate="96/72" maxTileCoordinate="103/79" number="8-96-72-8-8"/>
         <Map name="L8-88-72-8-24" mapSource="AH OpenSeaMap - Mapnik" ulc="48.92249926, -78.75000000" lrc="40.97989807, -45.00000000" minTileCoordinate="88/72" maxTileCoordinate="95/95" number="8-88-72-8-24"/>
         <Map name="L8-72-112-8-16" mapSource="AH OpenSeaMap - Mapnik" ulc="61.60639637, -22.50000000" lrc="55.77657302, 0.00000000" minTileCoordinate="72/112" maxTileCoordinate="79/127" number="8-72-112-8-16"/>
-        <Map name="L8-56-112-8-8" mapSource="AH OpenSeaMap - Mapnik" ulc="70.61261424, -22.50000000" lrc="66.51326044, -11.25000000" minTileCoordinate="56/112" maxTileCoordinate="63/119" number="8-56-112-8-8"/>
-        <Map name="L8-64-104-8-24" mapSource="AH OpenSeaMap - Mapnik" ulc="66.51326044, -33.75000000" lrc="61.60639637, 0.00000000" minTileCoordinate="64/104" maxTileCoordinate="71/127" number="8-64-104-8-24"/>
-        <Map name="L8-72-96-8-8" mapSource="AH OpenSeaMap - Mapnik" ulc="61.60639637, -45.00000000" lrc="55.77657302, -33.75000000" minTileCoordinate="72/96" maxTileCoordinate="79/103" number="8-72-96-8-8"/>
+        <Map name="L8-80-120-32-8" mapSource="AH OpenSeaMap - Mapnik" ulc="55.77657302, -11.25000000" lrc="21.94304553, 0.00000000" minTileCoordinate="80/120" maxTileCoordinate="111/127" number="8-80-120-32-8"/>
+        <Map name="L8-96-64-16-16" mapSource="AH OpenSeaMap - Mapnik" ulc="40.97989807, -90.00000000" lrc="21.94304553, -67.50000000" minTileCoordinate="96/64" maxTileCoordinate="111/79" number="8-96-64-16-16"/>
+        <Map name="L8-112-72-8-16" mapSource="AH OpenSeaMap - Mapnik" ulc="21.94304553, -78.75000000" lrc="11.17840187, -56.25000000" minTileCoordinate="112/72" maxTileCoordinate="119/87" number="8-112-72-8-16"/>
+        <Map name="L8-80-80-8-16" mapSource="AH OpenSeaMap - Mapnik" ulc="55.77657302, -67.50000000" lrc="48.92249926, -45.00000000" minTileCoordinate="80/80" maxTileCoordinate="87/95" number="8-80-80-8-16"/>
+        <Map name="L8-72-88-8-16" mapSource="AH OpenSeaMap - Mapnik" ulc="61.60639637, -56.25000000" lrc="55.77657302, -33.75000000" minTileCoordinate="72/88" maxTileCoordinate="79/103" number="8-72-88-8-16"/>
+        <Map name="L8-64-96-8-32" mapSource="AH OpenSeaMap - Mapnik" ulc="66.51326044, -45.00000000" lrc="61.60639637, 0.00000000" minTileCoordinate="64/96" maxTileCoordinate="71/127" number="8-64-96-8-32"/>
+        <Map name="L8-56-104-8-16" mapSource="AH OpenSeaMap - Mapnik" ulc="70.61261424, -33.75000000" lrc="66.51326044, -11.25000000" minTileCoordinate="56/104" maxTileCoordinate="63/119" number="8-56-104-8-16"/>
     </Layer>
     <Layer name="L06" zoomLvl="6">
         <Map name="L6-8-24-24-8" mapSource="AH OpenSeaMap - Mapnik" ulc="79.17133464, -45.00000000" lrc="0.00000000, 0.00000000" minTileCoordinate="8/24" maxTileCoordinate="31/31" number="6-8-24-24-8"/>

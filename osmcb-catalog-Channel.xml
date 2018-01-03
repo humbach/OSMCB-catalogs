@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalog name="Channel" size="11" version="2">
+<catalog name="Channel" size="9" version="2">
     <Layer name="L16" zoomLvl="16">
         <Map name="L16-21960-32944-8-8" mapSource="AH OpenSeaMap - Mapnik" ulc="50.93073802, 0.96679688" lrc="50.90303283, 1.01074219" minTileCoordinate="21960/32944" maxTileCoordinate="21967/32951" number="16-21960-32944-8-8"/>
         <Map name="L16-21968-32912-8-8" mapSource="AH OpenSeaMap - Mapnik" ulc="50.90303283, 0.79101563" lrc="50.87531114, 0.83496094" minTileCoordinate="21968/32912" maxTileCoordinate="21975/32919" number="16-21968-32912-8-8"/>
@@ -1101,11 +1101,5 @@
     <Layer name="L08" zoomLvl="8">
         <Map name="L8-80-120-8-16" mapSource="AH OpenSeaMap - Mapnik" ulc="55.77657302, -11.25000000" lrc="48.92249926, 11.25000000" minTileCoordinate="80/120" maxTileCoordinate="87/135" number="8-80-120-8-16"/>
         <Map name="L8-80-120-16-8" mapSource="AH OpenSeaMap - Mapnik" ulc="55.77657302, -11.25000000" lrc="40.97989807, 0.00000000" minTileCoordinate="80/120" maxTileCoordinate="95/127" number="8-80-120-16-8"/>
-    </Layer>
-    <Layer name="L07" zoomLvl="7">
-        <Map name="L7-40-56-8-16" mapSource="AH OpenSeaMap - Mapnik" ulc="55.77657302, -22.50000000" lrc="40.97989807, 22.50000000" minTileCoordinate="40/56" maxTileCoordinate="47/71" number="7-40-56-8-16"/>
-    </Layer>
-    <Layer name="L06" zoomLvl="6">
-        <Map name="L6-16-24-8-8" mapSource="AH OpenSeaMap - Mapnik" ulc="66.51326044, -45.00000000" lrc="40.97989807, 0.00000000" minTileCoordinate="16/24" maxTileCoordinate="23/31" number="6-16-24-8-8"/>
     </Layer>
 </catalog>
